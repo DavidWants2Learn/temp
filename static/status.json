@@ -1,0 +1,45 @@
+﻿{
+  "environments":  [
+                       {
+                           "name": "SB EU1"
+                       },
+                       {
+                           "name":  "SB US2"
+                       },
+                       {
+                           "name":  "SB US3"
+                       },
+                       {
+                           "name":  "PROD EU1"
+                       },
+                       {
+                           "name":  "PROD US2"
+                       },
+                       {
+                           "name":  "PROD US3"
+                       }
+               ],
+  "incidents":  [
+                    {
+                      "startDateTime": "2019-07-03T06:17:00+00:00",
+                      "endDateTime": "2019-07-03T07:05:00+00:00",
+                      "description": "The BlackLine service is now performing normally. We will continue to monitor closely until BlackLine has verified all related client tickets are closed. We identified an issue with name resolution to our storage systems. We rebooted the impacted servers which resolved the issue. We are continuing investigation for a root cause and will also continue to monitor the systems closely. If you have any questions please contact Support.",
+                      "environmentName": "SB US2",
+                      "incidentType": "ServiceDisruption"
+                    },
+                    {
+                      "startDateTime": "2019-07-03T06:17:00+00:00",
+                      "endDateTime": "2019-07-03T07:05:00+00:00",
+                      "description": "The BlackLine service is now performing normally. We will continue to monitor closely until BlackLine has verified all related client tickets are closed. We identified an issue with name resolution to our storage systems. We rebooted the impacted servers which resolved the issue. We are continuing investigation for a root cause and will also continue to monitor the systems closely. If you have any questions please contact Support.",
+                      "environmentName": "PROD US2",
+                      "incidentType": "ServiceDisruption"
+                    },
+                    {
+                      "startDateTime": "2019-07-03T06:17:00+00:00",
+                      "endDateTime": "2019-07-03T07:05:00+00:00",
+                      "description": "The BlackLine service is now performing normally. We will continue to monitor closely until BlackLine has verified all related client tickets are closed. We identified an issue with name resolution to our storage systems. We rebooted the impacted servers which resolved the issue. We are continuing investigation for a root cause and will also continue to monitor the systems closely. If you have any questions please contact Support.",
+                      "environmentName": "PROD US3",
+                      "incidentType": "ServiceDisruption"
+                    }
+                ]
+}

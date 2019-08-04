@@ -1,0 +1,81 @@
+.container1 {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+  }
+  
+  
+  .title-blue {
+    font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+      'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    display: block;
+    font-weight: 500;
+    font-size: 28px;
+    color: #037bc0;
+    letter-spacing: 1px;
+    margin-left: 5rem;
+  }
+  
+  .subtitle {
+    font-weight: 300;
+    font-size: 42px;
+    color: #526488;
+    word-spacing: 5px;
+    padding-bottom: 15px;
+   
+  }
+  
+  .links {
+    padding-top: 15px;
+  }
+  
+  /*#security{
+      position: absolute;
+      top: 4rem;
+      margin: 0px;
+      background-color: #000;
+      color: #fff;
+      padding-left: 1rem;
+      font-size: 3rem;
+  }*/
+  
+   h1.title{
+     color: #fff;
+     padding-left: 11rem;
+     font-size: 2.5rem;
+      padding-top: 2rem;
+      font-weight: 300;
+      font-family: "Trust", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      
+   }
+  .title{
+      position: absolute;
+      top: 3.5rem;
+      margin: 0px;
+      background-color: #272727;
+      height: 5rem;
+  }
+  .module-header{
+    height: 2rem;
+    width: 100%;
+    background-color:#000;
+    margin-bottom: 4.3rem;
+  }
+  
+  .panel-content{
+    text-align: left;
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+  
+  .section1{
+    margin-top: 9rem;
+  }
+  
+  .section2{
+    margin-top: 3rem;
+  }
+  

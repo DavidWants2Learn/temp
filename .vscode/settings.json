@@ -1,0 +1,7 @@
+{
+    "emmet.includeLanguages": {
+        "edge": "html",
+        "vue-html": "html",
+        "vue": "html"
+    }
+}

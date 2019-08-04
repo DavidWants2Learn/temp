@@ -1,0 +1,64 @@
+.title {
+    font-size:20pt; 
+    font-family:arial; 
+    color: #037bc0;
+}
+.panel-content{
+    font-size:1rem; 
+    line-height:1.5rem; 
+    font-family:arial; 
+    color: #000; 
+    margin-bottom:20px;
+    text-align: left;
+    font-weight: normal;
+}
+button {
+    background-color: none;
+    background: none;
+    border: none; 
+    outline: none;
+}
+/*#learnTitle {
+    height: 2rem;
+    width: 100%;
+   
+}
+/*
+#dropdown {
+    border-top: 1px solid red;
+}
+*/
+
+.complianceTitle {
+    font-size:1.5rem; 
+    font-family:arial; 
+    color: #037bc0;
+    margin-left: 10rem;
+    font-weight: normal;
+}
+#learnTitle {
+    color: white;
+    position: absolute;
+    padding-left: 4rem;
+    font-family: "Trust", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30pt;
+    padding-top: 2rem;
+}
+.page_header {
+    background-color: #272727;
+    height: 7rem;
+    top: 3.5rem;
+}
+#wrapper {
+    display: block;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 5rem;
+}
+#container {
+    border-top: solid 1px #272727;
+}
+/*.container1 {
+        margin: 0 auto;
+        max-width: 1024px;
+}*/

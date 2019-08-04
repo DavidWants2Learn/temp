@@ -1,0 +1,4377 @@
+{
+	"metrics": [
+	  {
+	   "date": "2019-08-01T00:03:08Z",
+	  "numberOfTransactions": 7412411
+	  },
+	  {
+	   "date": "2019-07-31T00:03:05Z",
+	  "numberOfTransactions": 10753763
+	  },
+	  {
+	   "date": "2019-07-30T00:02:52Z",
+	  "numberOfTransactions": 10602267
+	  },
+	  {
+	   "date": "2019-07-29T00:03:04Z",
+	  "numberOfTransactions": 10663317
+	  },
+	  {
+	   "date": "2019-07-28T00:02:59Z",
+	  "numberOfTransactions": 913897
+	  },
+	  {
+	   "date": "2019-07-27T00:03:08Z",
+	  "numberOfTransactions": 944867
+	  },
+	  {
+	   "date": "2019-07-26T00:02:55Z",
+	  "numberOfTransactions": 9023262
+	  },
+	  {
+	   "date": "2019-07-25T00:03:00Z",
+	  "numberOfTransactions": 12001905
+	  },
+	  {
+	   "date": "2019-07-24T00:02:59Z",
+	  "numberOfTransactions": 12048605
+	  },
+	  {
+	   "date": "2019-07-23T00:02:39Z",
+	  "numberOfTransactions": 13749536
+	  },
+	  {
+	   "date": "2019-07-22T00:02:56Z",
+	  "numberOfTransactions": 14649765
+	  },
+	  {
+	   "date": "2019-07-21T00:03:02Z",
+	  "numberOfTransactions": 1113596
+	  },
+	  {
+	   "date": "2019-07-20T00:02:54Z",
+	  "numberOfTransactions": 1055139
+	  },
+	  {
+	   "date": "2019-07-19T00:01:31Z",
+	  "numberOfTransactions": 13503580
+	  },
+	  {
+	   "date": "2019-07-18T00:01:41Z",
+	  "numberOfTransactions": 16268684
+	  },
+	  {
+	   "date": "2019-07-17T00:01:36Z",
+	  "numberOfTransactions": 18113455
+	  },
+	  {
+	   "date": "2019-07-16T00:01:36Z",
+	  "numberOfTransactions": 18725177
+	  },
+	  {
+	   "date": "2019-07-15T00:01:31Z",
+	  "numberOfTransactions": 18385349
+	  },
+	  {
+	   "date": "2019-07-14T00:01:42Z",
+	  "numberOfTransactions": 1208742
+	  },
+	  {
+	   "date": "2019-07-13T00:03:06Z",
+	  "numberOfTransactions": 1359615
+	  },
+	  {
+	   "date": "2019-07-12T00:01:18Z",
+	  "numberOfTransactions": 17888236
+	  },
+	  {
+	   "date": "2019-07-11T00:01:26Z",
+	  "numberOfTransactions": 20233412
+	  },
+	  {
+	   "date": "2019-07-10T00:01:48Z",
+	  "numberOfTransactions": 21123898
+	  },
+	  {
+	   "date": "2019-07-09T00:01:21Z",
+	  "numberOfTransactions": 19488932
+	  },
+	  {
+	   "date": "2019-07-08T00:01:36Z",
+	  "numberOfTransactions": 18202347
+	  },
+	  {
+	   "date": "2019-07-07T00:03:13Z",
+	  "numberOfTransactions": 1222489
+	  },
+	  {
+	   "date": "2019-07-06T00:03:13Z",
+	  "numberOfTransactions": 1426214
+	  },
+	  {
+	   "date": "2019-07-05T00:03:10Z",
+	  "numberOfTransactions": 11441228
+	  },
+	  {
+	   "date": "2019-07-04T00:02:51Z",
+	  "numberOfTransactions": 8680516
+	  },
+	  {
+	   "date": "2019-07-03T00:01:32Z",
+	  "numberOfTransactions": 15021302
+	  },
+	  {
+	   "date": "2019-07-02T00:03:06Z",
+	  "numberOfTransactions": 13680711
+	  },
+	  {
+	   "date": "2019-07-01T00:03:02Z",
+	  "numberOfTransactions": 11956312
+	  },
+	  {
+	   "date": "2019-06-30T00:03:00Z",
+	  "numberOfTransactions": 1305913
+	  },
+	  {
+	   "date": "2019-06-29T00:02:59Z",
+	  "numberOfTransactions": 1200181
+	  },
+	  {
+	   "date": "2019-06-28T00:02:53Z",
+	  "numberOfTransactions": 10381939
+	  },
+	  {
+	   "date": "2019-06-27T00:03:04Z",
+	  "numberOfTransactions": 11252503
+	  },
+	  {
+	   "date": "2019-06-26T00:03:10Z",
+	  "numberOfTransactions": 11890501
+	  },
+	  {
+	   "date": "2019-06-25T00:03:09Z",
+	  "numberOfTransactions": 13630308
+	  },
+	  {
+	   "date": "2019-06-24T00:03:01Z",
+	  "numberOfTransactions": 13912228
+	  },
+	  {
+	   "date": "2019-06-23T00:02:54Z",
+	  "numberOfTransactions": 1132635
+	  },
+	  {
+	   "date": "2019-06-22T00:02:58Z",
+	  "numberOfTransactions": 1072403
+	  },
+	  {
+	   "date": "2019-06-21T00:02:58Z",
+	  "numberOfTransactions": 10464139
+	  },
+	  {
+	   "date": "2019-06-20T00:02:52Z",
+	  "numberOfTransactions": 12736750
+	  },
+	  {
+	   "date": "2019-06-19T00:03:02Z",
+	  "numberOfTransactions": 14158914
+	  },
+	  {
+	   "date": "2019-06-18T00:02:29Z",
+	  "numberOfTransactions": 14744597
+	  },
+	  {
+	   "date": "2019-06-17T00:02:29Z",
+	  "numberOfTransactions": 14872312
+	  },
+	  {
+	   "date": "2019-06-16T00:02:29Z",
+	  "numberOfTransactions": 944726
+	  },
+	  {
+	   "date": "2019-06-15T00:02:39Z",
+	  "numberOfTransactions": 768294
+	  },
+	  {
+	   "date": "2019-06-14T00:02:40Z",
+	  "numberOfTransactions": 13186979
+	  },
+	  {
+	   "date": "2019-06-13T00:02:45Z",
+	  "numberOfTransactions": 15888816
+	  },
+	  {
+	   "date": "2019-06-12T00:02:39Z",
+	  "numberOfTransactions": 17385078
+	  },
+	  {
+	   "date": "2019-06-11T00:02:32Z",
+	  "numberOfTransactions": 17366423
+	  },
+	  {
+	   "date": "2019-06-10T00:02:33Z",
+	  "numberOfTransactions": 15187710
+	  },
+	  {
+	   "date": "2019-06-09T00:02:33Z",
+	  "numberOfTransactions": 814461
+	  },
+	  {
+	   "date": "2019-06-08T00:02:36Z",
+	  "numberOfTransactions": 868734
+	  },
+	  {
+	   "date": "2019-06-07T00:02:30Z",
+	  "numberOfTransactions": 12574887
+	  },
+	  {
+	   "date": "2019-06-06T00:02:29Z",
+	  "numberOfTransactions": 13067333
+	  },
+	  {
+	   "date": "2019-06-05T00:03:16Z",
+	  "numberOfTransactions": 12123717
+	  },
+	  {
+	   "date": "2019-06-04T00:03:13Z",
+	  "numberOfTransactions": 12550545
+	  },
+	  {
+	   "date": "2019-06-03T00:03:12Z",
+	  "numberOfTransactions": 11422589
+	  },
+	  {
+	   "date": "2019-06-02T00:03:14Z",
+	  "numberOfTransactions": 900638
+	  },
+	  {
+	   "date": "2019-06-01T00:01:19Z",
+	  "numberOfTransactions": 1104343
+	  },
+	  {
+	   "date": "2019-05-31T00:03:11Z",
+	  "numberOfTransactions": 9520389
+	  },
+	  {
+	   "date": "2019-05-30T00:03:10Z",
+	  "numberOfTransactions": 9830705
+	  },
+	  {
+	   "date": "2019-05-29T00:03:07Z",
+	  "numberOfTransactions": 10585398
+	  },
+	  {
+	   "date": "2019-05-28T00:03:07Z",
+	  "numberOfTransactions": 10842362
+	  },
+	  {
+	   "date": "2019-05-27T00:03:11Z",
+	  "numberOfTransactions": 5605735
+	  },
+	  {
+	   "date": "2019-05-26T00:03:07Z",
+	  "numberOfTransactions": 786836
+	  },
+	  {
+	   "date": "2019-05-25T00:01:12Z",
+	  "numberOfTransactions": 738788
+	  },
+	  {
+	   "date": "2019-05-24T00:03:03Z",
+	  "numberOfTransactions": 8709539
+	  },
+	  {
+	   "date": "2019-05-23T00:03:03Z",
+	  "numberOfTransactions": 10949165
+	  },
+	  {
+	   "date": "2019-05-22T00:03:03Z",
+	  "numberOfTransactions": 12155174
+	  },
+	  {
+	   "date": "2019-05-21T00:03:03Z",
+	  "numberOfTransactions": 13227542
+	  },
+	  {
+	   "date": "2019-05-20T00:03:00Z",
+	  "numberOfTransactions": 13601030
+	  },
+	  {
+	   "date": "2019-05-19T00:02:55Z",
+	  "numberOfTransactions": 1044402
+	  },
+	  {
+	   "date": "2019-05-18T00:01:02Z",
+	  "numberOfTransactions": 794405
+	  },
+	  {
+	   "date": "2019-05-17T00:01:10Z",
+	  "numberOfTransactions": 22651756
+	  },
+	  {
+	   "date": "2019-05-16T00:02:44Z",
+	  "numberOfTransactions": 26323158
+	  },
+	  {
+	   "date": "2019-05-15T00:01:18Z",
+	  "numberOfTransactions": 26534995
+	  },
+	  {
+	   "date": "2019-05-14T00:01:01Z",
+	  "numberOfTransactions": 28960399
+	  },
+	  {
+	   "date": "2019-05-13T00:01:07Z",
+	  "numberOfTransactions": 28298499
+	  },
+	  {
+	   "date": "2019-05-12T00:01:07Z",
+	  "numberOfTransactions": 1566954
+	  },
+	  {
+	   "date": "2019-05-11T00:01:03Z",
+	  "numberOfTransactions": 1554373
+	  },
+	  {
+	   "date": "2019-05-10T00:01:03Z",
+	  "numberOfTransactions": 23964007
+	  },
+	  {
+	   "date": "2019-05-09T00:02:39Z",
+	  "numberOfTransactions": 28287743
+	  },
+	  {
+	   "date": "2019-05-08T00:02:54Z",
+	  "numberOfTransactions": 28906978
+	  },
+	  {
+	   "date": "2019-05-07T00:01:16Z",
+	  "numberOfTransactions": 28579412
+	  },
+	  {
+	   "date": "2019-05-06T00:01:28Z",
+	  "numberOfTransactions": 24341605
+	  },
+	  {
+	   "date": "2019-05-05T00:01:33Z",
+	  "numberOfTransactions": 1876749
+	  },
+	  {
+	   "date": "2019-05-04T00:01:27Z",
+	  "numberOfTransactions": 2103825
+	  },
+	  {
+	   "date": "2019-05-03T00:01:35Z",
+	  "numberOfTransactions": 20255398
+	  },
+	  {
+	   "date": "2019-05-02T00:01:28Z",
+	  "numberOfTransactions": 22403809
+	  },
+	  {
+	   "date": "2019-05-01T00:01:29Z",
+	  "numberOfTransactions": 18417403
+	  },
+	  {
+	   "date": "2019-04-30T00:01:25Z",
+	  "numberOfTransactions": 22573745
+	  },
+	  {
+	   "date": "2019-04-29T00:01:20Z",
+	  "numberOfTransactions": 21747239
+	  },
+	  {
+	   "date": "2019-04-28T00:01:11Z",
+	  "numberOfTransactions": 2240477
+	  },
+	  {
+	   "date": "2019-04-27T00:01:14Z",
+	  "numberOfTransactions": 2012793
+	  },
+	  {
+	   "date": "2019-04-26T00:01:21Z",
+	  "numberOfTransactions": 17925658
+	  },
+	  {
+	   "date": "2019-04-25T00:02:44Z",
+	  "numberOfTransactions": 22016058
+	  },
+	  {
+	   "date": "2019-04-24T00:01:08Z",
+	  "numberOfTransactions": 24918752
+	  },
+	  {
+	   "date": "2019-04-23T00:01:06Z",
+	  "numberOfTransactions": 25761070
+	  },
+	  {
+	   "date": "2019-04-22T00:01:12Z",
+	  "numberOfTransactions": 22404973
+	  },
+	  {
+	   "date": "2019-04-21T00:03:02Z",
+	  "numberOfTransactions": 1861577
+	  },
+	  {
+	   "date": "2019-04-20T00:02:57Z",
+	  "numberOfTransactions": 2185787
+	  },
+	  {
+	   "date": "2019-04-19T00:02:55Z",
+	  "numberOfTransactions": 14658169
+	  },
+	  {
+	   "date": "2019-04-18T00:02:54Z",
+	  "numberOfTransactions": 24467167
+	  },
+	  {
+	   "date": "2019-04-17T00:02:56Z",
+	  "numberOfTransactions": 30082885
+	  },
+	  {
+	   "date": "2019-04-16T00:02:37Z",
+	  "numberOfTransactions": 33083684
+	  },
+	  {
+	   "date": "2019-04-15T00:01:05Z",
+	  "numberOfTransactions": 34544319
+	  },
+	  {
+	   "date": "2019-04-14T00:02:55Z",
+	  "numberOfTransactions": 2448070
+	  },
+	  {
+	   "date": "2019-04-13T00:53:12Z",
+	  "numberOfTransactions": 2713133
+	  },
+	  {
+	   "date": "2019-04-12T00:01:57Z",
+	  "numberOfTransactions": 32121978
+	  },
+	  {
+	   "date": "2019-04-11T00:01:47Z",
+	  "numberOfTransactions": 35372876
+	  },
+	  {
+	   "date": "2019-04-10T00:01:56Z",
+	  "numberOfTransactions": 38295210
+	  },
+	  {
+	   "date": "2019-04-09T00:01:52Z",
+	  "numberOfTransactions": 38680034
+	  },
+	  {
+	   "date": "2019-04-08T00:01:47Z",
+	  "numberOfTransactions": 36528982
+	  },
+	  {
+	   "date": "2019-04-07T00:01:43Z",
+	  "numberOfTransactions": 2562319
+	  },
+	  {
+	   "date": "2019-04-06T00:01:39Z",
+	  "numberOfTransactions": 3516091
+	  },
+	  {
+	   "date": "2019-04-05T00:01:49Z",
+	  "numberOfTransactions": 28896703
+	  },
+	  {
+	   "date": "2019-04-04T00:01:45Z",
+	  "numberOfTransactions": 30027700
+	  },
+	  {
+	   "date": "2019-04-03T00:01:37Z",
+	  "numberOfTransactions": 27740547
+	  },
+	  {
+	   "date": "2019-04-02T00:01:30Z",
+	  "numberOfTransactions": 26430431
+	  },
+	  {
+	   "date": "2019-04-01T00:01:26Z",
+	  "numberOfTransactions": 23414361
+	  },
+	  {
+	   "date": "2019-03-31T00:01:30Z",
+	  "numberOfTransactions": 2654624
+	  },
+	  {
+	   "date": "2019-03-30T00:01:21Z",
+	  "numberOfTransactions": 2776514
+	  },
+	  {
+	   "date": "2019-03-29T00:01:22Z",
+	  "numberOfTransactions": 20140827
+	  },
+	  {
+	   "date": "2019-03-28T00:01:15Z",
+	  "numberOfTransactions": 21112277
+	  },
+	  {
+	   "date": "2019-03-27T00:01:13Z",
+	  "numberOfTransactions": 22205787
+	  },
+	  {
+	   "date": "2019-03-26T00:01:17Z",
+	  "numberOfTransactions": 22440817
+	  },
+	  {
+	   "date": "2019-03-25T00:01:14Z",
+	  "numberOfTransactions": 23880603
+	  },
+	  {
+	   "date": "2019-03-24T00:01:14Z",
+	  "numberOfTransactions": 2328292
+	  },
+	  {
+	   "date": "2019-03-23T00:01:09Z",
+	  "numberOfTransactions": 2053373
+	  },
+	  {
+	   "date": "2019-03-22T00:01:13Z",
+	  "numberOfTransactions": 19479992
+	  },
+	  {
+	   "date": "2019-03-21T00:01:16Z",
+	  "numberOfTransactions": 22215187
+	  },
+	  {
+	   "date": "2019-03-20T00:01:05Z",
+	  "numberOfTransactions": 26534949
+	  },
+	  {
+	   "date": "2019-03-19T00:02:56Z",
+	  "numberOfTransactions": 27300438
+	  },
+	  {
+	   "date": "2019-03-18T00:01:03Z",
+	  "numberOfTransactions": 26872481
+	  },
+	  {
+	   "date": "2019-03-17T00:02:52Z",
+	  "numberOfTransactions": 2184538
+	  },
+	  {
+	   "date": "2019-03-16T00:02:56Z",
+	  "numberOfTransactions": 2190656
+	  },
+	  {
+	   "date": "2019-03-15T00:01:42Z",
+	  "numberOfTransactions": 24035860
+	  },
+	  {
+	   "date": "2019-03-14T00:01:39Z",
+	  "numberOfTransactions": 29660924
+	  },
+	  {
+	   "date": "2019-03-13T00:01:33Z",
+	  "numberOfTransactions": 31259534
+	  },
+	  {
+	   "date": "2019-03-12T00:01:35Z",
+	  "numberOfTransactions": 32589139
+	  },
+	  {
+	   "date": "2019-03-11T00:01:28Z",
+	  "numberOfTransactions": 31897780
+	  },
+	  {
+	   "date": "2019-03-10T00:01:56Z",
+	  "numberOfTransactions": 2053049
+	  },
+	  {
+	   "date": "2019-03-09T00:01:35Z",
+	  "numberOfTransactions": 2355707
+	  },
+	  {
+	   "date": "2019-03-08T00:01:49Z",
+	  "numberOfTransactions": 25771200
+	  },
+	  {
+	   "date": "2019-03-07T00:01:50Z",
+	  "numberOfTransactions": 29191402
+	  },
+	  {
+	   "date": "2019-03-06T00:01:42Z",
+	  "numberOfTransactions": 28410947
+	  },
+	  {
+	   "date": "2019-03-05T00:02:01Z",
+	  "numberOfTransactions": 25797796
+	  },
+	  {
+	   "date": "2019-03-04T00:01:42Z",
+	  "numberOfTransactions": 23205307
+	  },
+	  {
+	   "date": "2019-03-03T00:02:06Z",
+	  "numberOfTransactions": 2102897
+	  },
+	  {
+	   "date": "2019-03-02T00:01:41Z",
+	  "numberOfTransactions": 2932282
+	  },
+	  {
+	   "date": "2019-03-01T00:01:33Z",
+	  "numberOfTransactions": 21177280
+	  },
+	  {
+	   "date": "2019-02-28T00:01:37Z",
+	  "numberOfTransactions": 24071144
+	  },
+	  {
+	   "date": "2019-02-27T00:01:32Z",
+	  "numberOfTransactions": 23972795
+	  },
+	  {
+	   "date": "2019-02-26T00:01:28Z",
+	  "numberOfTransactions": 25639203
+	  },
+	  {
+	   "date": "2019-02-25T00:01:40Z",
+	  "numberOfTransactions": 26142196
+	  },
+	  {
+	   "date": "2019-02-24T00:01:48Z",
+	  "numberOfTransactions": 2569504
+	  },
+	  {
+	   "date": "2019-02-23T00:01:32Z",
+	  "numberOfTransactions": 2636437
+	  },
+	  {
+	   "date": "2019-02-22T00:01:37Z",
+	  "numberOfTransactions": 22782538
+	  },
+	  {
+	   "date": "2019-02-21T00:02:17Z",
+	  "numberOfTransactions": 27080319
+	  },
+	  {
+	   "date": "2019-02-20T00:02:04Z",
+	  "numberOfTransactions": 28659646
+	  },
+	  {
+	   "date": "2019-02-19T00:02:05Z",
+	  "numberOfTransactions": 13310095
+	  },
+	  {
+	   "date": "2019-02-18T00:02:01Z",
+	  "numberOfTransactions": 2529311
+	  },
+	  {
+	   "date": "2019-02-17T00:02:06Z",
+	  "numberOfTransactions": 375346
+	  },
+	  {
+	   "date": "2019-02-16T00:02:17Z",
+	  "numberOfTransactions": 1145905
+	  },
+	  {
+	   "date": "2019-02-15T00:01:49Z",
+	  "numberOfTransactions": 26612140
+	  },
+	  {
+	   "date": "2019-02-14T00:01:37Z",
+	  "numberOfTransactions": 30539427
+	  },
+	  {
+	   "date": "2019-02-13T00:01:47Z",
+	  "numberOfTransactions": 31933469
+	  },
+	  {
+	   "date": "2019-02-12T00:01:32Z",
+	  "numberOfTransactions": 32496144
+	  },
+	  {
+	   "date": "2019-02-11T00:01:23Z",
+	  "numberOfTransactions": 31427698
+	  },
+	  {
+	   "date": "2019-02-10T00:01:14Z",
+	  "numberOfTransactions": 2279904
+	  },
+	  {
+	   "date": "2019-02-09T00:01:02Z",
+	  "numberOfTransactions": 2620639
+	  },
+	  {
+	   "date": "2019-02-08T00:01:57Z",
+	  "numberOfTransactions": 26479909
+	  },
+	  {
+	   "date": "2019-02-07T00:01:49Z",
+	  "numberOfTransactions": 28647705
+	  },
+	  {
+	   "date": "2019-02-06T00:01:26Z",
+	  "numberOfTransactions": 26889209
+	  },
+	  {
+	   "date": "2019-02-05T00:01:11Z",
+	  "numberOfTransactions": 24697239
+	  },
+	  {
+	   "date": "2019-02-04T00:01:40Z",
+	  "numberOfTransactions": 22727529
+	  },
+	  {
+	   "date": "2019-02-03T00:02:04Z",
+	  "numberOfTransactions": 2410142
+	  },
+	  {
+	   "date": "2019-02-02T00:01:42Z",
+	  "numberOfTransactions": 3695098
+	  },
+	  {
+	   "date": "2019-02-01T00:02:11Z",
+	  "numberOfTransactions": 21397667
+	  },
+	  {
+	   "date": "2019-01-31T00:16:06Z",
+	  "numberOfTransactions": 23258150
+	  },
+	  {
+	   "date": "2019-01-30T00:01:37Z",
+	  "numberOfTransactions": 19400950
+	  },
+	  {
+	   "date": "2019-01-29T00:01:31Z",
+	  "numberOfTransactions": 19983554
+	  },
+	  {
+	   "date": "2019-01-28T00:01:20Z",
+	  "numberOfTransactions": 19506020
+	  },
+	  {
+	   "date": "2019-01-27T00:01:19Z",
+	  "numberOfTransactions": 2091310
+	  },
+	  {
+	   "date": "2019-01-26T00:01:48Z",
+	  "numberOfTransactions": 2280986
+	  },
+	  {
+	   "date": "2019-01-25T00:01:18Z",
+	  "numberOfTransactions": 18870319
+	  },
+	  {
+	   "date": "2019-01-24T00:01:32Z",
+	  "numberOfTransactions": 21445088
+	  },
+	  {
+	   "date": "2019-01-23T00:01:23Z",
+	  "numberOfTransactions": 23057168
+	  },
+	  {
+	   "date": "2019-01-22T00:19:47Z",
+	  "numberOfTransactions": 27755933
+	  },
+	  {
+	   "date": "2019-01-21T00:15:29Z",
+	  "numberOfTransactions": 25053919
+	  },
+	  {
+	   "date": "2019-01-20T00:01:47Z",
+	  "numberOfTransactions": 2779234
+	  },
+	  {
+	   "date": "2019-01-19T00:02:09Z",
+	  "numberOfTransactions": 3202931
+	  },
+	  {
+	   "date": "2019-01-18T00:01:43Z",
+	  "numberOfTransactions": 27259902
+	  },
+	  {
+	   "date": "2019-01-17T00:01:22Z",
+	  "numberOfTransactions": 32171011
+	  },
+	  {
+	   "date": "2019-01-16T00:01:39Z",
+	  "numberOfTransactions": 33901626
+	  },
+	  {
+	   "date": "2019-01-15T00:01:37Z",
+	  "numberOfTransactions": 36941302
+	  },
+	  {
+	   "date": "2019-01-14T00:01:31Z",
+	  "numberOfTransactions": 38151306
+	  },
+	  {
+	   "date": "2019-01-13T00:01:41Z",
+	  "numberOfTransactions": 3435270
+	  },
+	  {
+	   "date": "2019-01-12T00:01:39Z",
+	  "numberOfTransactions": 4400891
+	  },
+	  {
+	   "date": "2019-01-11T00:01:27Z",
+	  "numberOfTransactions": 33618911
+	  },
+	  {
+	   "date": "2019-01-10T00:01:09Z",
+	  "numberOfTransactions": 36491193
+	  },
+	  {
+	   "date": "2019-01-09T00:01:16Z",
+	  "numberOfTransactions": 35847105
+	  },
+	  {
+	   "date": "2019-01-08T00:02:44Z",
+	  "numberOfTransactions": 34299953
+	  },
+	  {
+	   "date": "2019-01-07T00:01:19Z",
+	  "numberOfTransactions": 31115712
+	  },
+	  {
+	   "date": "2019-01-06T00:01:22Z",
+	  "numberOfTransactions": 3935441
+	  },
+	  {
+	   "date": "2019-01-05T00:01:15Z",
+	  "numberOfTransactions": 7396998
+	  },
+	  {
+	   "date": "2019-01-04T00:01:10Z",
+	  "numberOfTransactions": 27638200
+	  },
+	  {
+	   "date": "2019-01-03T00:01:09Z",
+	  "numberOfTransactions": 26788367
+	  },
+	  {
+	   "date": "2019-01-02T00:01:17Z",
+	  "numberOfTransactions": 22925152
+	  },
+	  {
+	   "date": "2019-01-01T00:01:14Z",
+	  "numberOfTransactions": 4500732
+	  },
+	  {
+	   "date": "2018-12-31T00:01:12Z",
+	  "numberOfTransactions": 12584194
+	  },
+	  {
+	   "date": "2018-12-30T00:01:06Z",
+	  "numberOfTransactions": 2265295
+	  },
+	  {
+	   "date": "2018-12-29T00:01:09Z",
+	  "numberOfTransactions": 2972438
+	  },
+	  {
+	   "date": "2018-12-28T00:15:43Z",
+	  "numberOfTransactions": 14894460
+	  },
+	  {
+	   "date": "2018-12-27T00:01:03Z",
+	  "numberOfTransactions": 14798580
+	  },
+	  {
+	   "date": "2018-12-26T00:01:08Z",
+	  "numberOfTransactions": 12171668
+	  },
+	  {
+	   "date": "2018-12-25T00:15:35Z",
+	  "numberOfTransactions": 3303583
+	  },
+	  {
+	   "date": "2018-12-24T00:15:32Z",
+	  "numberOfTransactions": 7815510
+	  },
+	  {
+	   "date": "2018-12-23T00:15:30Z",
+	  "numberOfTransactions": 1624751
+	  },
+	  {
+	   "date": "2018-12-22T00:01:39Z",
+	  "numberOfTransactions": 1995541
+	  },
+	  {
+	   "date": "2018-12-21T00:02:05Z",
+	  "numberOfTransactions": 18975575
+	  },
+	  {
+	   "date": "2018-12-20T00:16:06Z",
+	  "numberOfTransactions": 23990459
+	  },
+	  {
+	   "date": "2018-12-19T00:01:20Z",
+	  "numberOfTransactions": 25550348
+	  },
+	  {
+	   "date": "2018-12-18T00:01:01Z",
+	  "numberOfTransactions": 27143221
+	  },
+	  {
+	   "date": "2018-12-17T00:15:42Z",
+	  "numberOfTransactions": 12571799
+	  },
+	  {
+	   "date": "2018-12-16T03:42:42Z",
+	  "numberOfTransactions": 806724
+	  },
+	  {
+	   "date": "2018-12-15T00:15:32Z",
+	  "numberOfTransactions": 2414187
+	  },
+	  {
+	   "date": "2018-12-14T00:01:01Z",
+	  "numberOfTransactions": 22501988
+	  },
+	  {
+	   "date": "2018-12-13T00:01:03Z",
+	  "numberOfTransactions": 28187351
+	  },
+	  {
+	   "date": "2018-12-12T00:01:01Z",
+	  "numberOfTransactions": 30080029
+	  },
+	  {
+	   "date": "2018-12-11T00:01:02Z",
+	  "numberOfTransactions": 32534332
+	  },
+	  {
+	   "date": "2018-12-10T00:15:21Z",
+	  "numberOfTransactions": 31044300
+	  },
+	  {
+	   "date": "2018-12-09T00:15:19Z",
+	  "numberOfTransactions": 2138164
+	  },
+	  {
+	   "date": "2018-12-08T00:15:17Z",
+	  "numberOfTransactions": 2344106
+	  },
+	  {
+	   "date": "2018-12-07T00:15:25Z",
+	  "numberOfTransactions": 24025291
+	  },
+	  {
+	   "date": "2018-12-06T00:03:39Z",
+	  "numberOfTransactions": 25290903
+	  },
+	  {
+	   "date": "2018-12-05T00:15:21Z",
+	  "numberOfTransactions": 24093783
+	  },
+	  {
+	   "date": "2018-12-04T00:01:15Z",
+	  "numberOfTransactions": 22819096
+	  },
+	  {
+	   "date": "2018-12-03T00:01:06Z",
+	  "numberOfTransactions": 20126847
+	  },
+	  {
+	   "date": "2018-12-02T00:15:45Z",
+	  "numberOfTransactions": 2031786
+	  },
+	  {
+	   "date": "2018-12-01T00:15:47Z",
+	  "numberOfTransactions": 3218073
+	  },
+	  {
+	   "date": "2018-11-30T00:01:05Z",
+	  "numberOfTransactions": 19428387
+	  },
+	  {
+	   "date": "2018-11-29T00:15:42Z",
+	  "numberOfTransactions": 21361564
+	  },
+	  {
+	   "date": "2018-11-28T00:15:42Z",
+	  "numberOfTransactions": 22100306
+	  },
+	  {
+	   "date": "2018-11-27T00:15:45Z",
+	  "numberOfTransactions": 22936161
+	  },
+	  {
+	   "date": "2018-11-26T00:01:26Z",
+	  "numberOfTransactions": 22471557
+	  },
+	  {
+	   "date": "2018-11-25T00:01:31Z",
+	  "numberOfTransactions": 2110904
+	  },
+	  {
+	   "date": "2018-11-24T00:01:32Z",
+	  "numberOfTransactions": 1570655
+	  },
+	  {
+	   "date": "2018-11-23T00:01:17Z",
+	  "numberOfTransactions": 10627229
+	  },
+	  {
+	   "date": "2018-11-22T00:01:29Z",
+	  "numberOfTransactions": 11344022
+	  },
+	  {
+	   "date": "2018-11-21T00:01:31Z",
+	  "numberOfTransactions": 20419033
+	  },
+	  {
+	   "date": "2018-11-20T00:01:17Z",
+	  "numberOfTransactions": 25660537
+	  },
+	  {
+	   "date": "2018-11-19T00:01:29Z",
+	  "numberOfTransactions": 26051346
+	  },
+	  {
+	   "date": "2018-11-18T00:01:18Z",
+	  "numberOfTransactions": 2063719
+	  },
+	  {
+	   "date": "2018-11-17T00:01:13Z",
+	  "numberOfTransactions": 2234246
+	  },
+	  {
+	   "date": "2018-11-16T00:01:18Z",
+	  "numberOfTransactions": 24018622
+	  },
+	  {
+	   "date": "2018-11-15T00:01:08Z",
+	  "numberOfTransactions": 27963333
+	  },
+	  {
+	   "date": "2018-11-14T00:01:37Z",
+	  "numberOfTransactions": 31292273
+	  },
+	  {
+	   "date": "2018-11-13T00:01:06Z",
+	  "numberOfTransactions": 32648754
+	  },
+	  {
+	   "date": "2018-11-12T00:01:08Z",
+	  "numberOfTransactions": 29557823
+	  },
+	  {
+	   "date": "2018-11-11T00:01:15Z",
+	  "numberOfTransactions": 2416460
+	  },
+	  {
+	   "date": "2018-11-10T00:01:05Z",
+	  "numberOfTransactions": 2477789
+	  },
+	  {
+	   "date": "2018-11-09T00:01:04Z",
+	  "numberOfTransactions": 25997039
+	  },
+	  {
+	   "date": "2018-11-08T00:01:29Z",
+	  "numberOfTransactions": 28900787
+	  },
+	  {
+	   "date": "2018-11-07T00:01:09Z",
+	  "numberOfTransactions": 27261957
+	  },
+	  {
+	   "date": "2018-11-06T00:02:14Z",
+	  "numberOfTransactions": 26311279
+	  },
+	  {
+	   "date": "2018-11-05T00:01:11Z",
+	  "numberOfTransactions": 24336961
+	  },
+	  {
+	   "date": "2018-11-04T00:02:22Z",
+	  "numberOfTransactions": 2069981
+	  },
+	  {
+	   "date": "2018-11-03T00:02:25Z",
+	  "numberOfTransactions": 2416235
+	  },
+	  {
+	   "date": "2018-11-02T00:02:25Z",
+	  "numberOfTransactions": 19311947
+	  },
+	  {
+	   "date": "2018-11-01T00:02:21Z",
+	  "numberOfTransactions": 18783444
+	  },
+	  {
+	   "date": "2018-10-31T00:02:28Z",
+	  "numberOfTransactions": 19848670
+	  },
+	  {
+	   "date": "2018-10-30T00:02:26Z",
+	  "numberOfTransactions": 20417505
+	  },
+	  {
+	   "date": "2018-10-29T00:02:22Z",
+	  "numberOfTransactions": 19833610
+	  },
+	  {
+	   "date": "2018-10-28T00:02:24Z",
+	  "numberOfTransactions": 1964895
+	  },
+	  {
+	   "date": "2018-10-27T00:02:21Z",
+	  "numberOfTransactions": 1739545
+	  },
+	  {
+	   "date": "2018-10-26T00:02:25Z",
+	  "numberOfTransactions": 17527859
+	  },
+	  {
+	   "date": "2018-10-25T00:02:19Z",
+	  "numberOfTransactions": 21295173
+	  },
+	  {
+	   "date": "2018-10-24T00:02:19Z",
+	  "numberOfTransactions": 22079432
+	  },
+	  {
+	   "date": "2018-10-23T00:02:24Z",
+	  "numberOfTransactions": 23973773
+	  },
+	  {
+	   "date": "2018-10-22T00:02:23Z",
+	  "numberOfTransactions": 24912113
+	  },
+	  {
+	   "date": "2018-10-21T00:02:24Z",
+	  "numberOfTransactions": 2100439
+	  },
+	  {
+	   "date": "2018-10-20T00:02:21Z",
+	  "numberOfTransactions": 2007767
+	  },
+	  {
+	   "date": "2018-10-19T00:02:19Z",
+	  "numberOfTransactions": 20908305
+	  },
+	  {
+	   "date": "2018-10-18T00:02:18Z",
+	  "numberOfTransactions": 22934268
+	  },
+	  {
+	   "date": "2018-10-17T00:02:17Z",
+	  "numberOfTransactions": 26237616
+	  },
+	  {
+	   "date": "2018-10-16T00:02:33Z",
+	  "numberOfTransactions": 28284823
+	  },
+	  {
+	   "date": "2018-10-15T00:02:26Z",
+	  "numberOfTransactions": 29565464
+	  },
+	  {
+	   "date": "2018-10-14T00:02:27Z",
+	  "numberOfTransactions": 2164994
+	  },
+	  {
+	   "date": "2018-10-13T00:02:26Z",
+	  "numberOfTransactions": 2288714
+	  },
+	  {
+	   "date": "2018-10-12T00:02:25Z",
+	  "numberOfTransactions": 26597969
+	  },
+	  {
+	   "date": "2018-10-11T00:01:09Z",
+	  "numberOfTransactions": 31463782
+	  },
+	  {
+	   "date": "2018-10-10T00:02:18Z",
+	  "numberOfTransactions": 34022891
+	  },
+	  {
+	   "date": "2018-10-09T00:02:12Z",
+	  "numberOfTransactions": 35173978
+	  },
+	  {
+	   "date": "2018-10-08T00:02:34Z",
+	  "numberOfTransactions": 32219553
+	  },
+	  {
+	   "date": "2018-10-07T00:02:28Z",
+	  "numberOfTransactions": 2646343
+	  },
+	  {
+	   "date": "2018-10-06T00:02:24Z",
+	  "numberOfTransactions": 3222183
+	  },
+	  {
+	   "date": "2018-10-05T00:02:25Z",
+	  "numberOfTransactions": 26914652
+	  },
+	  {
+	   "date": "2018-10-04T00:02:23Z",
+	  "numberOfTransactions": 27729035
+	  },
+	  {
+	   "date": "2018-10-03T00:02:14Z",
+	  "numberOfTransactions": 22553865
+	  },
+	  {
+	   "date": "2018-10-02T00:02:21Z",
+	  "numberOfTransactions": 20625328
+	  },
+	  {
+	   "date": "2018-10-01T00:02:21Z",
+	  "numberOfTransactions": 19053444
+	  },
+	  {
+	   "date": "2018-09-30T00:02:20Z",
+	  "numberOfTransactions": 2262815
+	  },
+	  {
+	   "date": "2018-09-29T00:02:18Z",
+	  "numberOfTransactions": 2275904
+	  },
+	  {
+	   "date": "2018-09-28T00:02:31Z",
+	  "numberOfTransactions": 17278655
+	  },
+	  {
+	   "date": "2018-09-27T00:02:31Z",
+	  "numberOfTransactions": 18082154
+	  },
+	  {
+	   "date": "2018-09-26T00:02:29Z",
+	  "numberOfTransactions": 19607945
+	  },
+	  {
+	   "date": "2018-09-25T00:02:26Z",
+	  "numberOfTransactions": 21450969
+	  },
+	  {
+	   "date": "2018-09-24T00:02:25Z",
+	  "numberOfTransactions": 23978313
+	  },
+	  {
+	   "date": "2018-09-23T00:02:24Z",
+	  "numberOfTransactions": 2137611
+	  },
+	  {
+	   "date": "2018-09-22T00:02:15Z",
+	  "numberOfTransactions": 2140648
+	  },
+	  {
+	   "date": "2018-09-21T00:02:34Z",
+	  "numberOfTransactions": 17686328
+	  },
+	  {
+	   "date": "2018-09-20T00:02:20Z",
+	  "numberOfTransactions": 14602136
+	  },
+	  {
+	   "date": "2018-09-19T00:02:22Z",
+	  "numberOfTransactions": 20220116
+	  },
+	  {
+	   "date": "2018-09-18T00:02:36Z",
+	  "numberOfTransactions": 25727711
+	  },
+	  {
+	   "date": "2018-09-17T00:02:33Z",
+	  "numberOfTransactions": 25905155
+	  },
+	  {
+	   "date": "2018-09-16T00:02:33Z",
+	  "numberOfTransactions": 1870469
+	  },
+	  {
+	   "date": "2018-09-15T00:02:31Z",
+	  "numberOfTransactions": 1726484
+	  },
+	  {
+	   "date": "2018-09-14T00:02:29Z",
+	  "numberOfTransactions": 22694073
+	  },
+	  {
+	   "date": "2018-09-13T00:02:26Z",
+	  "numberOfTransactions": 24916855
+	  },
+	  {
+	   "date": "2018-09-12T00:02:25Z",
+	  "numberOfTransactions": 26880254
+	  },
+	  {
+	   "date": "2018-09-11T00:02:24Z",
+	  "numberOfTransactions": 26773065
+	  },
+	  {
+	   "date": "2018-09-10T00:02:21Z",
+	  "numberOfTransactions": 25609898
+	  },
+	  {
+	   "date": "2018-09-09T00:02:20Z",
+	  "numberOfTransactions": 1645508
+	  },
+	  {
+	   "date": "2018-09-08T00:02:44Z",
+	  "numberOfTransactions": 1588835
+	  },
+	  {
+	   "date": "2018-09-07T00:02:43Z",
+	  "numberOfTransactions": 20290052
+	  },
+	  {
+	   "date": "2018-09-06T00:02:45Z",
+	  "numberOfTransactions": 21097266
+	  },
+	  {
+	   "date": "2018-09-05T00:02:38Z",
+	  "numberOfTransactions": 20527431
+	  },
+	  {
+	   "date": "2018-09-04T00:02:34Z",
+	  "numberOfTransactions": 19428749
+	  },
+	  {
+	   "date": "2018-09-03T00:02:34Z",
+	  "numberOfTransactions": 8507568
+	  },
+	  {
+	   "date": "2018-09-02T00:02:31Z",
+	  "numberOfTransactions": 1315678
+	  },
+	  {
+	   "date": "2018-09-01T00:02:30Z",
+	  "numberOfTransactions": 1611300
+	  },
+	  {
+	   "date": "2018-08-31T00:02:29Z",
+	  "numberOfTransactions": 14868308
+	  },
+	  {
+	   "date": "2018-08-30T00:02:26Z",
+	  "numberOfTransactions": 17482158
+	  },
+	  {
+	   "date": "2018-08-29T00:02:22Z",
+	  "numberOfTransactions": 17717336
+	  },
+	  {
+	   "date": "2018-08-28T00:02:21Z",
+	  "numberOfTransactions": 18800727
+	  },
+	  {
+	   "date": "2018-08-27T00:02:19Z",
+	  "numberOfTransactions": 18326875
+	  },
+	  {
+	   "date": "2018-08-26T00:02:18Z",
+	  "numberOfTransactions": 1602071
+	  },
+	  {
+	   "date": "2018-08-25T00:02:48Z",
+	  "numberOfTransactions": 1660982
+	  },
+	  {
+	   "date": "2018-08-24T00:02:53Z",
+	  "numberOfTransactions": 16434579
+	  },
+	  {
+	   "date": "2018-08-23T00:02:49Z",
+	  "numberOfTransactions": 19206297
+	  },
+	  {
+	   "date": "2018-08-22T00:02:45Z",
+	  "numberOfTransactions": 19621931
+	  },
+	  {
+	   "date": "2018-08-21T00:02:46Z",
+	  "numberOfTransactions": 22696542
+	  },
+	  {
+	   "date": "2018-08-20T00:02:41Z",
+	  "numberOfTransactions": 23403313
+	  },
+	  {
+	   "date": "2018-08-19T00:02:41Z",
+	  "numberOfTransactions": 1850486
+	  },
+	  {
+	   "date": "2018-08-18T00:02:38Z",
+	  "numberOfTransactions": 1647166
+	  },
+	  {
+	   "date": "2018-08-17T00:02:43Z",
+	  "numberOfTransactions": 18152969
+	  },
+	  {
+	   "date": "2018-08-16T00:02:35Z",
+	  "numberOfTransactions": 22510761
+	  },
+	  {
+	   "date": "2018-08-15T00:01:16Z",
+	  "numberOfTransactions": 22115619
+	  },
+	  {
+	   "date": "2018-08-14T00:02:35Z",
+	  "numberOfTransactions": 26451138
+	  },
+	  {
+	   "date": "2018-08-13T00:02:28Z",
+	  "numberOfTransactions": 26592123
+	  },
+	  {
+	   "date": "2018-08-12T00:02:27Z",
+	  "numberOfTransactions": 1640294
+	  },
+	  {
+	   "date": "2018-08-11T00:02:53Z",
+	  "numberOfTransactions": 1563836
+	  },
+	  {
+	   "date": "2018-08-10T00:02:43Z",
+	  "numberOfTransactions": 22598977
+	  },
+	  {
+	   "date": "2018-08-09T00:01:27Z",
+	  "numberOfTransactions": 24549906
+	  },
+	  {
+	   "date": "2018-08-08T00:01:16Z",
+	  "numberOfTransactions": 24890744
+	  },
+	  {
+	   "date": "2018-08-07T00:01:12Z",
+	  "numberOfTransactions": 25033934
+	  },
+	  {
+	   "date": "2018-08-06T00:01:35Z",
+	  "numberOfTransactions": 22229868
+	  },
+	  {
+	   "date": "2018-08-05T00:01:13Z",
+	  "numberOfTransactions": 1452443
+	  },
+	  {
+	   "date": "2018-08-04T00:01:15Z",
+	  "numberOfTransactions": 1569908
+	  },
+	  {
+	   "date": "2018-08-03T00:02:55Z",
+	  "numberOfTransactions": 16908417
+	  },
+	  {
+	   "date": "2018-08-02T00:01:03Z",
+	  "numberOfTransactions": 18130537
+	  },
+	  {
+	   "date": "2018-08-01T00:02:52Z",
+	  "numberOfTransactions": 16844498
+	  },
+	  {
+	   "date": "2018-07-31T00:01:00Z",
+	  "numberOfTransactions": 17837490
+	  },
+	  {
+	   "date": "2018-07-30T00:01:09Z",
+	  "numberOfTransactions": 17757654
+	  },
+	  {
+	   "date": "2018-07-29T00:01:09Z",
+	  "numberOfTransactions": 1696336
+	  },
+	  {
+	   "date": "2018-07-28T00:01:11Z",
+	  "numberOfTransactions": 1503736
+	  },
+	  {
+	   "date": "2018-07-27T00:02:55Z",
+	  "numberOfTransactions": 14414295
+	  },
+	  {
+	   "date": "2018-07-26T00:02:48Z",
+	  "numberOfTransactions": 17705515
+	  },
+	  {
+	   "date": "2018-07-25T00:02:48Z",
+	  "numberOfTransactions": 19676309
+	  },
+	  {
+	   "date": "2018-07-24T00:02:44Z",
+	  "numberOfTransactions": 21108881
+	  },
+	  {
+	   "date": "2018-07-23T00:02:41Z",
+	  "numberOfTransactions": 22502060
+	  },
+	  {
+	   "date": "2018-07-22T00:01:41Z",
+	  "numberOfTransactions": 2027640
+	  },
+	  {
+	   "date": "2018-07-21T00:01:47Z",
+	  "numberOfTransactions": 2005913
+	  },
+	  {
+	   "date": "2018-07-20T00:01:28Z",
+	  "numberOfTransactions": 20051057
+	  },
+	  {
+	   "date": "2018-07-19T00:01:57Z",
+	  "numberOfTransactions": 24512059
+	  },
+	  {
+	   "date": "2018-07-18T00:01:19Z",
+	  "numberOfTransactions": 26360064
+	  },
+	  {
+	   "date": "2018-07-17T00:01:25Z",
+	  "numberOfTransactions": 30531933
+	  },
+	  {
+	   "date": "2018-07-16T00:02:53Z",
+	  "numberOfTransactions": 31752747
+	  },
+	  {
+	   "date": "2018-07-15T00:02:47Z",
+	  "numberOfTransactions": 2345177
+	  },
+	  {
+	   "date": "2018-07-14T00:02:37Z",
+	  "numberOfTransactions": 2280225
+	  },
+	  {
+	   "date": "2018-07-13T00:02:43Z",
+	  "numberOfTransactions": 29154450
+	  },
+	  {
+	   "date": "2018-07-12T00:02:41Z",
+	  "numberOfTransactions": 33407788
+	  },
+	  {
+	   "date": "2018-07-11T00:02:38Z",
+	  "numberOfTransactions": 35302182
+	  },
+	  {
+	   "date": "2018-07-10T00:02:36Z",
+	  "numberOfTransactions": 37694005
+	  },
+	  {
+	   "date": "2018-07-09T00:02:33Z",
+	  "numberOfTransactions": 34023861
+	  },
+	  {
+	   "date": "2018-07-08T00:02:31Z",
+	  "numberOfTransactions": 3356602
+	  },
+	  {
+	   "date": "2018-07-07T00:02:29Z",
+	  "numberOfTransactions": 2988625
+	  },
+	  {
+	   "date": "2018-07-06T00:02:29Z",
+	  "numberOfTransactions": 24885564
+	  },
+	  {
+	   "date": "2018-07-05T00:02:25Z",
+	  "numberOfTransactions": 23917468
+	  },
+	  {
+	   "date": "2018-07-04T00:02:23Z",
+	  "numberOfTransactions": 12899672
+	  },
+	  {
+	   "date": "2018-07-03T00:02:22Z",
+	  "numberOfTransactions": 20649537
+	  },
+	  {
+	   "date": "2018-07-02T00:02:21Z",
+	  "numberOfTransactions": 18448543
+	  },
+	  {
+	   "date": "2018-07-01T00:02:21Z",
+	  "numberOfTransactions": 2277652
+	  },
+	  {
+	   "date": "2018-06-30T00:02:21Z",
+	  "numberOfTransactions": 2226889
+	  },
+	  {
+	   "date": "2018-06-29T00:02:18Z",
+	  "numberOfTransactions": 16460054
+	  },
+	  {
+	   "date": "2018-06-28T00:02:37Z",
+	  "numberOfTransactions": 17924894
+	  },
+	  {
+	   "date": "2018-06-27T00:02:35Z",
+	  "numberOfTransactions": 17985382
+	  },
+	  {
+	   "date": "2018-06-26T00:02:32Z",
+	  "numberOfTransactions": 20121878
+	  },
+	  {
+	   "date": "2018-06-25T00:02:32Z",
+	  "numberOfTransactions": 21638749
+	  },
+	  {
+	   "date": "2018-06-24T00:02:31Z",
+	  "numberOfTransactions": 1944221
+	  },
+	  {
+	   "date": "2018-06-23T00:02:28Z",
+	  "numberOfTransactions": 1666733
+	  },
+	  {
+	   "date": "2018-06-22T00:02:17Z",
+	  "numberOfTransactions": 18122686
+	  },
+	  {
+	   "date": "2018-06-21T00:02:24Z",
+	  "numberOfTransactions": 22378639
+	  },
+	  {
+	   "date": "2018-06-20T00:02:22Z",
+	  "numberOfTransactions": 23880407
+	  },
+	  {
+	   "date": "2018-06-19T00:02:20Z",
+	  "numberOfTransactions": 25144834
+	  },
+	  {
+	   "date": "2018-06-18T00:02:17Z",
+	  "numberOfTransactions": 24966863
+	  },
+	  {
+	   "date": "2018-06-17T00:02:17Z",
+	  "numberOfTransactions": 1615908
+	  },
+	  {
+	   "date": "2018-06-16T00:01:15Z",
+	  "numberOfTransactions": 1495128
+	  },
+	  {
+	   "date": "2018-06-15T00:03:13Z",
+	  "numberOfTransactions": 19476314
+	  },
+	  {
+	   "date": "2018-06-14T00:01:07Z",
+	  "numberOfTransactions": 26746097
+	  },
+	  {
+	   "date": "2018-06-13T00:03:07Z",
+	  "numberOfTransactions": 27856479
+	  },
+	  {
+	   "date": "2018-06-12T00:01:22Z",
+	  "numberOfTransactions": 28886768
+	  },
+	  {
+	   "date": "2018-06-11T00:01:08Z",
+	  "numberOfTransactions": 27759038
+	  },
+	  {
+	   "date": "2018-06-10T00:01:03Z",
+	  "numberOfTransactions": 1876192
+	  },
+	  {
+	   "date": "2018-06-09T00:01:00Z",
+	  "numberOfTransactions": 1628919
+	  },
+	  {
+	   "date": "2018-06-08T00:02:59Z",
+	  "numberOfTransactions": 23266424
+	  },
+	  {
+	   "date": "2018-06-07T00:03:08Z",
+	  "numberOfTransactions": 25225171
+	  },
+	  {
+	   "date": "2018-06-06T00:03:15Z",
+	  "numberOfTransactions": 22664885
+	  },
+	  {
+	   "date": "2018-06-05T00:02:54Z",
+	  "numberOfTransactions": 20701083
+	  },
+	  {
+	   "date": "2018-06-04T00:02:52Z",
+	  "numberOfTransactions": 18926994
+	  },
+	  {
+	   "date": "2018-06-03T00:02:51Z",
+	  "numberOfTransactions": 1324794
+	  },
+	  {
+	   "date": "2018-06-02T00:02:48Z",
+	  "numberOfTransactions": 1365734
+	  },
+	  {
+	   "date": "2018-06-01T00:02:47Z",
+	  "numberOfTransactions": 14739737
+	  },
+	  {
+	   "date": "2018-05-31T00:02:47Z",
+	  "numberOfTransactions": 16474459
+	  },
+	  {
+	   "date": "2018-05-30T00:02:35Z",
+	  "numberOfTransactions": 17331946
+	  },
+	  {
+	   "date": "2018-05-29T00:02:41Z",
+	  "numberOfTransactions": 17030233
+	  },
+	  {
+	   "date": "2018-05-28T00:02:40Z",
+	  "numberOfTransactions": 8057267
+	  },
+	  {
+	   "date": "2018-05-27T00:02:41Z",
+	  "numberOfTransactions": 1289928
+	  },
+	  {
+	   "date": "2018-05-26T00:02:36Z",
+	  "numberOfTransactions": 1174722
+	  },
+	  {
+	   "date": "2018-05-25T00:02:34Z",
+	  "numberOfTransactions": 13965523
+	  },
+	  {
+	   "date": "2018-05-24T00:02:02Z",
+	  "numberOfTransactions": 17782888
+	  },
+	  {
+	   "date": "2018-05-23T00:02:22Z",
+	  "numberOfTransactions": 18949346
+	  },
+	  {
+	   "date": "2018-05-22T00:02:30Z",
+	  "numberOfTransactions": 20642995
+	  },
+	  {
+	   "date": "2018-05-21T00:02:27Z",
+	  "numberOfTransactions": 20990716
+	  },
+	  {
+	   "date": "2018-05-20T00:02:26Z",
+	  "numberOfTransactions": 1643068
+	  },
+	  {
+	   "date": "2018-05-19T00:02:24Z",
+	  "numberOfTransactions": 1475990
+	  },
+	  {
+	   "date": "2018-05-18T00:02:23Z",
+	  "numberOfTransactions": 19529812
+	  },
+	  {
+	   "date": "2018-05-17T00:02:19Z",
+	  "numberOfTransactions": 23311008
+	  },
+	  {
+	   "date": "2018-05-16T00:02:18Z",
+	  "numberOfTransactions": 23766364
+	  },
+	  {
+	   "date": "2018-05-15T00:02:26Z",
+	  "numberOfTransactions": 27479192
+	  },
+	  {
+	   "date": "2018-05-14T00:02:24Z",
+	  "numberOfTransactions": 29575061
+	  },
+	  {
+	   "date": "2018-05-13T00:02:23Z",
+	  "numberOfTransactions": 1579469
+	  },
+	  {
+	   "date": "2018-05-12T00:02:22Z",
+	  "numberOfTransactions": 1386180
+	  },
+	  {
+	   "date": "2018-05-11T00:02:18Z",
+	  "numberOfTransactions": 22568573
+	  },
+	  {
+	   "date": "2018-05-10T00:02:48Z",
+	  "numberOfTransactions": 26036415
+	  },
+	  {
+	   "date": "2018-05-09T00:02:46Z",
+	  "numberOfTransactions": 27166609
+	  },
+	  {
+	   "date": "2018-05-08T00:02:43Z",
+	  "numberOfTransactions": 27223090
+	  },
+	  {
+	   "date": "2018-05-07T00:02:41Z",
+	  "numberOfTransactions": 24310758
+	  },
+	  {
+	   "date": "2018-05-06T00:02:41Z",
+	  "numberOfTransactions": 1681602
+	  },
+	  {
+	   "date": "2018-05-05T00:02:41Z",
+	  "numberOfTransactions": 1483707
+	  },
+	  {
+	   "date": "2018-05-04T00:01:34Z",
+	  "numberOfTransactions": 19258735
+	  },
+	  {
+	   "date": "2018-05-03T00:02:35Z",
+	  "numberOfTransactions": 19992375
+	  },
+	  {
+	   "date": "2018-05-02T00:02:34Z",
+	  "numberOfTransactions": 18747589
+	  },
+	  {
+	   "date": "2018-05-01T00:02:32Z",
+	  "numberOfTransactions": 15108373
+	  },
+	  {
+	   "date": "2018-04-30T00:02:30Z",
+	  "numberOfTransactions": 18270227
+	  },
+	  {
+	   "date": "2018-04-29T00:02:28Z",
+	  "numberOfTransactions": 1838181
+	  },
+	  {
+	   "date": "2018-04-28T00:02:28Z",
+	  "numberOfTransactions": 1767065
+	  },
+	  {
+	   "date": "2018-04-27T00:02:26Z",
+	  "numberOfTransactions": 15900525
+	  },
+	  {
+	   "date": "2018-04-26T00:02:26Z",
+	  "numberOfTransactions": 18522508
+	  },
+	  {
+	   "date": "2018-04-25T00:02:27Z",
+	  "numberOfTransactions": 20218420
+	  },
+	  {
+	   "date": "2018-04-24T00:02:24Z",
+	  "numberOfTransactions": 21842165
+	  },
+	  {
+	   "date": "2018-04-23T00:02:22Z",
+	  "numberOfTransactions": 22968725
+	  },
+	  {
+	   "date": "2018-04-22T00:02:21Z",
+	  "numberOfTransactions": 1925098
+	  },
+	  {
+	   "date": "2018-04-21T00:02:20Z",
+	  "numberOfTransactions": 1793960
+	  },
+	  {
+	   "date": "2018-04-20T00:02:19Z",
+	  "numberOfTransactions": 21674704
+	  },
+	  {
+	   "date": "2018-04-19T00:02:21Z",
+	  "numberOfTransactions": 25404939
+	  },
+	  {
+	   "date": "2018-04-18T00:02:18Z",
+	  "numberOfTransactions": 25421329
+	  },
+	  {
+	   "date": "2018-04-17T00:02:42Z",
+	  "numberOfTransactions": 22859953
+	  },
+	  {
+	   "date": "2018-04-16T00:02:49Z",
+	  "numberOfTransactions": 30362602
+	  },
+	  {
+	   "date": "2018-04-15T00:02:51Z",
+	  "numberOfTransactions": 2183281
+	  },
+	  {
+	   "date": "2018-04-14T00:02:47Z",
+	  "numberOfTransactions": 1992637
+	  },
+	  {
+	   "date": "2018-04-13T00:02:39Z",
+	  "numberOfTransactions": 27607688
+	  },
+	  {
+	   "date": "2018-04-12T00:02:45Z",
+	  "numberOfTransactions": 31155674
+	  },
+	  {
+	   "date": "2018-04-11T00:02:50Z",
+	  "numberOfTransactions": 32212245
+	  },
+	  {
+	   "date": "2018-04-10T00:02:42Z",
+	  "numberOfTransactions": 32407276
+	  },
+	  {
+	   "date": "2018-04-09T00:02:41Z",
+	  "numberOfTransactions": 28553883
+	  },
+	  {
+	   "date": "2018-04-08T00:02:40Z",
+	  "numberOfTransactions": 2452433
+	  },
+	  {
+	   "date": "2018-04-07T00:02:39Z",
+	  "numberOfTransactions": 2579210
+	  },
+	  {
+	   "date": "2018-04-06T00:01:35Z",
+	  "numberOfTransactions": 23662336
+	  },
+	  {
+	   "date": "2018-04-05T00:02:41Z",
+	  "numberOfTransactions": 23379940
+	  },
+	  {
+	   "date": "2018-04-04T00:02:38Z",
+	  "numberOfTransactions": 21114269
+	  },
+	  {
+	   "date": "2018-04-03T00:02:34Z",
+	  "numberOfTransactions": 19346027
+	  },
+	  {
+	   "date": "2018-04-02T00:02:35Z",
+	  "numberOfTransactions": 14710856
+	  },
+	  {
+	   "date": "2018-04-01T00:02:32Z",
+	  "numberOfTransactions": 1459155
+	  },
+	  {
+	   "date": "2018-03-31T00:02:31Z",
+	  "numberOfTransactions": 1663496
+	  },
+	  {
+	   "date": "2018-03-30T00:15:33Z",
+	  "numberOfTransactions": 9817341
+	  },
+	  {
+	   "date": "2018-03-29T00:02:28Z",
+	  "numberOfTransactions": 14823450
+	  },
+	  {
+	   "date": "2018-03-28T00:02:29Z",
+	  "numberOfTransactions": 16634388
+	  },
+	  {
+	   "date": "2018-03-27T00:02:30Z",
+	  "numberOfTransactions": 16971350
+	  },
+	  {
+	   "date": "2018-03-26T00:02:26Z",
+	  "numberOfTransactions": 17704734
+	  },
+	  {
+	   "date": "2018-03-25T00:02:25Z",
+	  "numberOfTransactions": 1835157
+	  },
+	  {
+	   "date": "2018-03-24T00:02:23Z",
+	  "numberOfTransactions": 1642112
+	  },
+	  {
+	   "date": "2018-03-23T00:02:23Z",
+	  "numberOfTransactions": 16722525
+	  },
+	  {
+	   "date": "2018-03-22T00:02:21Z",
+	  "numberOfTransactions": 19000683
+	  },
+	  {
+	   "date": "2018-03-21T00:02:20Z",
+	  "numberOfTransactions": 20725341
+	  },
+	  {
+	   "date": "2018-03-20T00:02:18Z",
+	  "numberOfTransactions": 22909758
+	  },
+	  {
+	   "date": "2018-03-19T00:02:18Z",
+	  "numberOfTransactions": 22535592
+	  },
+	  {
+	   "date": "2018-03-18T00:02:20Z",
+	  "numberOfTransactions": 1863118
+	  },
+	  {
+	   "date": "2018-03-17T00:02:20Z",
+	  "numberOfTransactions": 1616108
+	  },
+	  {
+	   "date": "2018-03-16T00:02:18Z",
+	  "numberOfTransactions": 19712591
+	  },
+	  {
+	   "date": "2018-03-15T00:02:18Z",
+	  "numberOfTransactions": 24727326
+	  },
+	  {
+	   "date": "2018-03-14T00:03:16Z",
+	  "numberOfTransactions": 27032219
+	  },
+	  {
+	   "date": "2018-03-13T00:03:15Z",
+	  "numberOfTransactions": 27626577
+	  },
+	  {
+	   "date": "2018-03-12T00:03:14Z",
+	  "numberOfTransactions": 27552369
+	  },
+	  {
+	   "date": "2018-03-11T00:16:15Z",
+	  "numberOfTransactions": 1733648
+	  },
+	  {
+	   "date": "2018-03-10T00:16:12Z",
+	  "numberOfTransactions": 1935185
+	  },
+	  {
+	   "date": "2018-03-09T00:16:12Z",
+	  "numberOfTransactions": 23044976
+	  },
+	  {
+	   "date": "2018-03-08T00:01:31Z",
+	  "numberOfTransactions": 24471193
+	  },
+	  {
+	   "date": "2018-03-07T00:03:55Z",
+	  "numberOfTransactions": 24349433
+	  },
+	  {
+	   "date": "2018-03-06T00:03:55Z",
+	  "numberOfTransactions": 29972160
+	  },
+	  {
+	   "date": "2018-03-05T00:01:18Z",
+	  "numberOfTransactions": 19516198
+	  },
+	  {
+	   "date": "2018-03-04T00:01:15Z",
+	  "numberOfTransactions": 1644249
+	  },
+	  {
+	   "date": "2018-03-03T00:01:11Z",
+	  "numberOfTransactions": 1929878
+	  },
+	  {
+	   "date": "2018-03-02T00:01:12Z",
+	  "numberOfTransactions": 16048389
+	  },
+	  {
+	   "date": "2018-03-01T00:01:09Z",
+	  "numberOfTransactions": 16945651
+	  },
+	  {
+	   "date": "2018-02-28T00:01:14Z",
+	  "numberOfTransactions": 19693434
+	  },
+	  {
+	   "date": "2018-02-27T00:01:23Z",
+	  "numberOfTransactions": 20146501
+	  },
+	  {
+	   "date": "2018-02-26T00:01:09Z",
+	  "numberOfTransactions": 20325254
+	  },
+	  {
+	   "date": "2018-02-25T00:01:24Z",
+	  "numberOfTransactions": 2211327
+	  },
+	  {
+	   "date": "2018-02-24T00:15:56Z",
+	  "numberOfTransactions": 2408351
+	  },
+	  {
+	   "date": "2018-02-23T00:01:04Z",
+	  "numberOfTransactions": 18268055
+	  },
+	  {
+	   "date": "2018-02-22T00:01:02Z",
+	  "numberOfTransactions": 21241830
+	  },
+	  {
+	   "date": "2018-02-21T00:15:56Z",
+	  "numberOfTransactions": 22286242
+	  },
+	  {
+	   "date": "2018-02-20T00:01:07Z",
+	  "numberOfTransactions": 23364360
+	  },
+	  {
+	   "date": "2018-02-19T00:01:20Z",
+	  "numberOfTransactions": 19228459
+	  },
+	  {
+	   "date": "2018-02-18T00:01:07Z",
+	  "numberOfTransactions": 1751437
+	  },
+	  {
+	   "date": "2018-02-17T00:15:52Z",
+	  "numberOfTransactions": 1953949
+	  },
+	  {
+	   "date": "2018-02-16T00:15:49Z",
+	  "numberOfTransactions": 19087260
+	  },
+	  {
+	   "date": "2018-02-15T00:01:16Z",
+	  "numberOfTransactions": 24305614
+	  },
+	  {
+	   "date": "2018-02-14T00:01:09Z",
+	  "numberOfTransactions": 26285502
+	  },
+	  {
+	   "date": "2018-02-13T00:15:44Z",
+	  "numberOfTransactions": 27394628
+	  },
+	  {
+	   "date": "2018-02-12T00:01:11Z",
+	  "numberOfTransactions": 27752450
+	  },
+	  {
+	   "date": "2018-02-11T03:00:58Z",
+	  "numberOfTransactions": 1306511
+	  },
+	  {
+	   "date": "2018-02-10T00:15:40Z",
+	  "numberOfTransactions": 1812140
+	  },
+	  {
+	   "date": "2018-02-09T00:01:01Z",
+	  "numberOfTransactions": 22966392
+	  },
+	  {
+	   "date": "2018-02-08T00:01:04Z",
+	  "numberOfTransactions": 25181306
+	  },
+	  {
+	   "date": "2018-02-07T00:15:36Z",
+	  "numberOfTransactions": 24269997
+	  },
+	  {
+	   "date": "2018-02-06T00:15:40Z",
+	  "numberOfTransactions": 22191176
+	  },
+	  {
+	   "date": "2018-02-05T00:15:34Z",
+	  "numberOfTransactions": 19030019
+	  },
+	  {
+	   "date": "2018-02-04T00:15:34Z",
+	  "numberOfTransactions": 1654862
+	  },
+	  {
+	   "date": "2018-02-03T00:15:31Z",
+	  "numberOfTransactions": 2001912
+	  },
+	  {
+	   "date": "2018-02-02T00:15:34Z",
+	  "numberOfTransactions": 16479180
+	  },
+	  {
+	   "date": "2018-02-01T00:15:34Z",
+	  "numberOfTransactions": 16750704
+	  },
+	  {
+	   "date": "2018-01-31T00:15:29Z",
+	  "numberOfTransactions": 17713783
+	  },
+	  {
+	   "date": "2018-01-30T00:11:04Z",
+	  "numberOfTransactions": 18238937
+	  },
+	  {
+	   "date": "2018-01-29T00:15:26Z",
+	  "numberOfTransactions": 18646177
+	  },
+	  {
+	   "date": "2018-01-28T00:15:25Z",
+	  "numberOfTransactions": 1834328
+	  },
+	  {
+	   "date": "2018-01-27T00:15:23Z",
+	  "numberOfTransactions": 1889038
+	  },
+	  {
+	   "date": "2018-01-26T00:15:21Z",
+	  "numberOfTransactions": 14464785
+	  },
+	  {
+	   "date": "2018-01-25T00:15:24Z",
+	  "numberOfTransactions": 19655121
+	  },
+	  {
+	   "date": "2018-01-24T00:15:23Z",
+	  "numberOfTransactions": 20735560
+	  },
+	  {
+	   "date": "2018-01-23T00:17:09Z",
+	  "numberOfTransactions": 22803656
+	  },
+	  {
+	   "date": "2018-01-22T00:15:22Z",
+	  "numberOfTransactions": 23965414
+	  },
+	  {
+	   "date": "2018-01-21T00:15:17Z",
+	  "numberOfTransactions": 2170495
+	  },
+	  {
+	   "date": "2018-01-20T00:01:09Z",
+	  "numberOfTransactions": 2684945
+	  },
+	  {
+	   "date": "2018-01-19T00:01:06Z",
+	  "numberOfTransactions": 21313630
+	  },
+	  {
+	   "date": "2018-01-18T00:01:16Z",
+	  "numberOfTransactions": 23194516
+	  },
+	  {
+	   "date": "2018-01-17T00:01:13Z",
+	  "numberOfTransactions": 26577585
+	  },
+	  {
+	   "date": "2018-01-16T00:01:00Z",
+	  "numberOfTransactions": 31021212
+	  },
+	  {
+	   "date": "2018-01-15T00:01:04Z",
+	  "numberOfTransactions": 26168342
+	  },
+	  {
+	   "date": "2018-01-14T00:01:11Z",
+	  "numberOfTransactions": 2466503
+	  },
+	  {
+	   "date": "2018-01-13T00:01:00Z",
+	  "numberOfTransactions": 3268892
+	  },
+	  {
+	   "date": "2018-01-12T00:01:07Z",
+	  "numberOfTransactions": 27825429
+	  },
+	  {
+	   "date": "2018-01-11T00:02:28Z",
+	  "numberOfTransactions": 30865973
+	  },
+	  {
+	   "date": "2018-01-10T00:15:58Z",
+	  "numberOfTransactions": 31187092
+	  },
+	  {
+	   "date": "2018-01-09T00:30:42Z",
+	  "numberOfTransactions": 30284056
+	  },
+	  {
+	   "date": "2018-01-08T00:01:05Z",
+	  "numberOfTransactions": 27097302
+	  },
+	  {
+	   "date": "2018-01-07T00:01:06Z",
+	  "numberOfTransactions": 2635372
+	  },
+	  {
+	   "date": "2018-01-06T00:06:21Z",
+	  "numberOfTransactions": 4946796
+	  },
+	  {
+	   "date": "2018-01-05T00:30:42Z",
+	  "numberOfTransactions": 21922965
+	  },
+	  {
+	   "date": "2018-01-04T00:25:56Z",
+	  "numberOfTransactions": 20082224
+	  },
+	  {
+	   "date": "2018-01-03T00:30:36Z",
+	  "numberOfTransactions": 18315759
+	  },
+	  {
+	   "date": "2018-01-02T00:30:34Z",
+	  "numberOfTransactions": 15791383
+	  },
+	  {
+	   "date": "2018-01-01T00:30:32Z",
+	  "numberOfTransactions": 2171958
+	  },
+	  {
+	   "date": "2017-12-31T00:30:31Z",
+	  "numberOfTransactions": 1420485
+	  },
+	  {
+	   "date": "2017-12-30T00:30:33Z",
+	  "numberOfTransactions": 2318356
+	  },
+	  {
+	   "date": "2017-12-29T00:30:32Z",
+	  "numberOfTransactions": 11289189
+	  },
+	  {
+	   "date": "2017-12-28T00:30:28Z",
+	  "numberOfTransactions": 13087517
+	  },
+	  {
+	   "date": "2017-12-27T00:30:31Z",
+	  "numberOfTransactions": 12453146
+	  },
+	  {
+	   "date": "2017-12-26T00:30:30Z",
+	  "numberOfTransactions": 7841485
+	  },
+	  {
+	   "date": "2017-12-25T00:30:30Z",
+	  "numberOfTransactions": 1475062
+	  },
+	  {
+	   "date": "2017-12-24T00:30:24Z",
+	  "numberOfTransactions": 1014057
+	  },
+	  {
+	   "date": "2017-12-23T00:30:22Z",
+	  "numberOfTransactions": 1371303
+	  },
+	  {
+	   "date": "2017-12-22T00:30:23Z",
+	  "numberOfTransactions": 12200918
+	  },
+	  {
+	   "date": "2017-12-21T00:30:12Z",
+	  "numberOfTransactions": 18725664
+	  },
+	  {
+	   "date": "2017-12-20T00:30:22Z",
+	  "numberOfTransactions": 20938218
+	  },
+	  {
+	   "date": "2017-12-19T00:30:21Z",
+	  "numberOfTransactions": 22608306
+	  },
+	  {
+	   "date": "2017-12-18T00:30:20Z",
+	  "numberOfTransactions": 18051858
+	  },
+	  {
+	   "date": "2017-12-17T00:30:31Z",
+	  "numberOfTransactions": 1476294
+	  },
+	  {
+	   "date": "2017-12-16T00:30:28Z",
+	  "numberOfTransactions": 2038729
+	  },
+	  {
+	   "date": "2017-12-15T00:30:27Z",
+	  "numberOfTransactions": 20613375
+	  },
+	  {
+	   "date": "2017-12-14T00:01:11Z",
+	  "numberOfTransactions": 25296688
+	  },
+	  {
+	   "date": "2017-12-13T00:01:00Z",
+	  "numberOfTransactions": 26447326
+	  },
+	  {
+	   "date": "2017-12-12T00:01:25Z",
+	  "numberOfTransactions": 26946739
+	  },
+	  {
+	   "date": "2017-12-11T00:01:06Z",
+	  "numberOfTransactions": 25560807
+	  },
+	  {
+	   "date": "2017-12-10T00:30:57Z",
+	  "numberOfTransactions": 1793020
+	  },
+	  {
+	   "date": "2017-12-09T00:01:10Z",
+	  "numberOfTransactions": 1706991
+	  },
+	  {
+	   "date": "2017-12-08T00:01:22Z",
+	  "numberOfTransactions": 20242383
+	  },
+	  {
+	   "date": "2017-12-07T00:01:12Z",
+	  "numberOfTransactions": 23136450
+	  },
+	  {
+	   "date": "2017-12-06T00:31:07Z",
+	  "numberOfTransactions": 20911007
+	  },
+	  {
+	   "date": "2017-12-05T00:01:27Z",
+	  "numberOfTransactions": 17746677
+	  },
+	  {
+	   "date": "2017-12-04T00:01:05Z",
+	  "numberOfTransactions": 17299416
+	  },
+	  {
+	   "date": "2017-12-03T00:01:00Z",
+	  "numberOfTransactions": 1463691
+	  },
+	  {
+	   "date": "2017-12-02T00:01:25Z",
+	  "numberOfTransactions": 1777439
+	  },
+	  {
+	   "date": "2017-12-01T00:01:14Z",
+	  "numberOfTransactions": 14325838
+	  },
+	  {
+	   "date": "2017-11-30T00:03:30Z",
+	  "numberOfTransactions": 16697545
+	  },
+	  {
+	   "date": "2017-11-29T00:30:48Z",
+	  "numberOfTransactions": 17055408
+	  },
+	  {
+	   "date": "2017-11-28T00:30:59Z",
+	  "numberOfTransactions": 18037394
+	  },
+	  {
+	   "date": "2017-11-27T00:30:48Z",
+	  "numberOfTransactions": 17410567
+	  },
+	  {
+	   "date": "2017-11-26T00:31:10Z",
+	  "numberOfTransactions": 1514240
+	  },
+	  {
+	   "date": "2017-11-25T00:30:47Z",
+	  "numberOfTransactions": 1202227
+	  },
+	  {
+	   "date": "2017-11-24T00:30:47Z",
+	  "numberOfTransactions": 8330261
+	  },
+	  {
+	   "date": "2017-11-23T00:30:43Z",
+	  "numberOfTransactions": 9180370
+	  },
+	  {
+	   "date": "2017-11-22T00:01:20Z",
+	  "numberOfTransactions": 16000086
+	  },
+	  {
+	   "date": "2017-11-21T00:30:50Z",
+	  "numberOfTransactions": 20444039
+	  },
+	  {
+	   "date": "2017-11-20T00:30:38Z",
+	  "numberOfTransactions": 20488313
+	  },
+	  {
+	   "date": "2017-11-19T20:30:50Z",
+	  "numberOfTransactions": 521406
+	  },
+	  {
+	   "date": "2017-11-18T00:31:02Z",
+	  "numberOfTransactions": 840683
+	  },
+	  {
+	   "date": "2017-11-17T00:01:00Z",
+	  "numberOfTransactions": 18219706
+	  },
+	  {
+	   "date": "2017-11-16T00:01:10Z",
+	  "numberOfTransactions": 21570673
+	  },
+	  {
+	   "date": "2017-11-15T00:01:12Z",
+	  "numberOfTransactions": 23082133
+	  },
+	  {
+	   "date": "2017-11-14T00:01:19Z",
+	  "numberOfTransactions": 25661686
+	  },
+	  {
+	   "date": "2017-11-13T00:30:44Z",
+	  "numberOfTransactions": 25029438
+	  },
+	  {
+	   "date": "2017-11-12T00:31:08Z",
+	  "numberOfTransactions": 1482212
+	  },
+	  {
+	   "date": "2017-11-11T00:30:57Z",
+	  "numberOfTransactions": 1493721
+	  },
+	  {
+	   "date": "2017-11-10T00:01:40Z",
+	  "numberOfTransactions": 21488491
+	  },
+	  {
+	   "date": "2017-11-09T00:32:07Z",
+	  "numberOfTransactions": 24628928
+	  },
+	  {
+	   "date": "2017-11-08T00:01:30Z",
+	  "numberOfTransactions": 24635444
+	  },
+	  {
+	   "date": "2017-11-07T00:01:57Z",
+	  "numberOfTransactions": 23082973
+	  },
+	  {
+	   "date": "2017-11-06T00:01:41Z",
+	  "numberOfTransactions": 20632713
+	  },
+	  {
+	   "date": "2017-11-05T00:02:12Z",
+	  "numberOfTransactions": 1441039
+	  },
+	  {
+	   "date": "2017-11-04T00:01:35Z",
+	  "numberOfTransactions": 1451907
+	  },
+	  {
+	   "date": "2017-11-03T00:01:34Z",
+	  "numberOfTransactions": 16008169
+	  },
+	  {
+	   "date": "2017-11-02T00:01:39Z",
+	  "numberOfTransactions": 16117812
+	  },
+	  {
+	   "date": "2017-11-01T00:01:35Z",
+	  "numberOfTransactions": 13828197
+	  },
+	  {
+	   "date": "2017-10-31T00:01:42Z",
+	  "numberOfTransactions": 16128038
+	  },
+	  {
+	   "date": "2017-10-30T00:01:30Z",
+	  "numberOfTransactions": 16371817
+	  },
+	  {
+	   "date": "2017-10-29T00:01:35Z",
+	  "numberOfTransactions": 1579767
+	  },
+	  {
+	   "date": "2017-10-28T00:01:32Z",
+	  "numberOfTransactions": 1173390
+	  },
+	  {
+	   "date": "2017-10-27T00:02:51Z",
+	  "numberOfTransactions": 13590265
+	  },
+	  {
+	   "date": "2017-10-26T00:01:47Z",
+	  "numberOfTransactions": 16103145
+	  },
+	  {
+	   "date": "2017-10-25T00:01:37Z",
+	  "numberOfTransactions": 19648505
+	  },
+	  {
+	   "date": "2017-10-24T00:01:51Z",
+	  "numberOfTransactions": 19733098
+	  },
+	  {
+	   "date": "2017-10-23T00:01:30Z",
+	  "numberOfTransactions": 20425861
+	  },
+	  {
+	   "date": "2017-10-22T00:01:29Z",
+	  "numberOfTransactions": 1493367
+	  },
+	  {
+	   "date": "2017-10-21T00:01:37Z",
+	  "numberOfTransactions": 1359296
+	  },
+	  {
+	   "date": "2017-10-20T00:01:34Z",
+	  "numberOfTransactions": 17430010
+	  },
+	  {
+	   "date": "2017-10-19T00:01:42Z",
+	  "numberOfTransactions": 19879738
+	  },
+	  {
+	   "date": "2017-10-18T00:01:24Z",
+	  "numberOfTransactions": 21982254
+	  },
+	  {
+	   "date": "2017-10-17T00:01:25Z",
+	  "numberOfTransactions": 24900902
+	  },
+	  {
+	   "date": "2017-10-16T00:01:13Z",
+	  "numberOfTransactions": 26415895
+	  },
+	  {
+	   "date": "2017-10-15T00:01:25Z",
+	  "numberOfTransactions": 1756296
+	  },
+	  {
+	   "date": "2017-10-14T00:01:14Z",
+	  "numberOfTransactions": 1900499
+	  },
+	  {
+	   "date": "2017-10-13T00:03:21Z",
+	  "numberOfTransactions": 24943798
+	  },
+	  {
+	   "date": "2017-10-12T00:01:21Z",
+	  "numberOfTransactions": 29125856
+	  },
+	  {
+	   "date": "2017-10-11T00:01:21Z",
+	  "numberOfTransactions": 29014674
+	  },
+	  {
+	   "date": "2017-10-10T00:01:14Z",
+	  "numberOfTransactions": 29489865
+	  },
+	  {
+	   "date": "2017-10-09T00:01:17Z",
+	  "numberOfTransactions": 26723206
+	  },
+	  {
+	   "date": "2017-10-08T00:01:15Z",
+	  "numberOfTransactions": 1903733
+	  },
+	  {
+	   "date": "2017-10-07T00:01:04Z",
+	  "numberOfTransactions": 2450451
+	  },
+	  {
+	   "date": "2017-10-06T00:02:39Z",
+	  "numberOfTransactions": 21969510
+	  },
+	  {
+	   "date": "2017-10-05T00:02:37Z",
+	  "numberOfTransactions": 22018148
+	  },
+	  {
+	   "date": "2017-10-04T00:01:01Z",
+	  "numberOfTransactions": 18951487
+	  },
+	  {
+	   "date": "2017-10-03T00:01:18Z",
+	  "numberOfTransactions": 17099533
+	  },
+	  {
+	   "date": "2017-10-02T00:02:31Z",
+	  "numberOfTransactions": 9858244
+	  },
+	  {
+	   "date": "2017-10-01T00:02:32Z",
+	  "numberOfTransactions": 1360310
+	  },
+	  {
+	   "date": "2017-09-30T00:02:30Z",
+	  "numberOfTransactions": 1847328
+	  },
+	  {
+	   "date": "2017-09-29T00:02:25Z",
+	  "numberOfTransactions": 14024483
+	  },
+	  {
+	   "date": "2017-09-28T00:02:23Z",
+	  "numberOfTransactions": 15035230
+	  },
+	  {
+	   "date": "2017-09-27T00:01:00Z",
+	  "numberOfTransactions": 15820132
+	  },
+	  {
+	   "date": "2017-09-26T00:01:03Z",
+	  "numberOfTransactions": 17337592
+	  },
+	  {
+	   "date": "2017-09-25T00:02:21Z",
+	  "numberOfTransactions": 19296517
+	  },
+	  {
+	   "date": "2017-09-24T00:02:20Z",
+	  "numberOfTransactions": 1667843
+	  },
+	  {
+	   "date": "2017-09-23T00:01:02Z",
+	  "numberOfTransactions": 1319388
+	  },
+	  {
+	   "date": "2017-09-22T00:02:16Z",
+	  "numberOfTransactions": 14395281
+	  },
+	  {
+	   "date": "2017-09-21T00:01:35Z",
+	  "numberOfTransactions": 17186965
+	  },
+	  {
+	   "date": "2017-09-20T00:05:18Z",
+	  "numberOfTransactions": 18872412
+	  },
+	  {
+	   "date": "2017-09-19T00:01:17Z",
+	  "numberOfTransactions": 20224802
+	  },
+	  {
+	   "date": "2017-09-18T00:01:15Z",
+	  "numberOfTransactions": 20498510
+	  },
+	  {
+	   "date": "2017-09-17T00:01:13Z",
+	  "numberOfTransactions": 1360788
+	  },
+	  {
+	   "date": "2017-09-16T00:01:23Z",
+	  "numberOfTransactions": 1290299
+	  },
+	  {
+	   "date": "2017-09-15T00:01:14Z",
+	  "numberOfTransactions": 18279570
+	  },
+	  {
+	   "date": "2017-09-14T00:01:10Z",
+	  "numberOfTransactions": 22178175
+	  },
+	  {
+	   "date": "2017-09-13T00:01:54Z",
+	  "numberOfTransactions": 22147533
+	  },
+	  {
+	   "date": "2017-09-12T00:01:15Z",
+	  "numberOfTransactions": 21804641
+	  },
+	  {
+	   "date": "2017-09-11T00:01:10Z",
+	  "numberOfTransactions": 20981893
+	  },
+	  {
+	   "date": "2017-09-10T00:01:06Z",
+	  "numberOfTransactions": 1280978
+	  },
+	  {
+	   "date": "2017-09-09T00:01:03Z",
+	  "numberOfTransactions": 1265085
+	  },
+	  {
+	   "date": "2017-09-08T00:01:09Z",
+	  "numberOfTransactions": 17303688
+	  },
+	  {
+	   "date": "2017-09-07T00:01:03Z",
+	  "numberOfTransactions": 17883897
+	  },
+	  {
+	   "date": "2017-09-06T00:01:11Z",
+	  "numberOfTransactions": 16673158
+	  },
+	  {
+	   "date": "2017-09-05T00:02:23Z",
+	  "numberOfTransactions": 14673680
+	  },
+	  {
+	   "date": "2017-09-04T00:01:04Z",
+	  "numberOfTransactions": 6258332
+	  },
+	  {
+	   "date": "2017-09-03T00:02:10Z",
+	  "numberOfTransactions": 854678
+	  },
+	  {
+	   "date": "2017-09-02T00:02:09Z",
+	  "numberOfTransactions": 1075574
+	  },
+	  {
+	   "date": "2017-09-01T00:01:34Z",
+	  "numberOfTransactions": 10863832
+	  },
+	  {
+	   "date": "2017-08-31T00:01:00Z",
+	  "numberOfTransactions": 12919211
+	  },
+	  {
+	   "date": "2017-08-30T00:01:08Z",
+	  "numberOfTransactions": 4697259
+	  },
+	  {
+	   "date": "2017-08-29T00:02:17Z",
+	  "numberOfTransactions": 4951170
+	  },
+	  {
+	   "date": "2017-08-28T00:02:15Z",
+	  "numberOfTransactions": 4418690
+	  },
+	  {
+	   "date": "2017-08-27T00:01:06Z",
+	  "numberOfTransactions": 403398
+	  },
+	  {
+	   "date": "2017-08-26T00:01:03Z",
+	  "numberOfTransactions": 810746
+	  },
+	  {
+	   "date": "2017-08-25T00:01:07Z",
+	  "numberOfTransactions": 12517528
+	  },
+	  {
+	   "date": "2017-08-24T00:02:26Z",
+	  "numberOfTransactions": 15914119
+	  },
+	  {
+	   "date": "2017-08-23T00:01:07Z",
+	  "numberOfTransactions": 17228947
+	  },
+	  {
+	   "date": "2017-08-22T00:01:10Z",
+	  "numberOfTransactions": 18693418
+	  },
+	  {
+	   "date": "2017-08-21T00:01:09Z",
+	  "numberOfTransactions": 18148379
+	  },
+	  {
+	   "date": "2017-08-20T00:02:18Z",
+	  "numberOfTransactions": 1330963
+	  },
+	  {
+	   "date": "2017-08-19T00:02:17Z",
+	  "numberOfTransactions": 1002637
+	  },
+	  {
+	   "date": "2017-08-18T00:02:16Z",
+	  "numberOfTransactions": 17227950
+	  },
+	  {
+	   "date": "2017-08-17T00:01:12Z",
+	  "numberOfTransactions": 19755611
+	  },
+	  {
+	   "date": "2017-08-16T00:01:07Z",
+	  "numberOfTransactions": 20066209
+	  },
+	  {
+	   "date": "2017-08-15T00:02:26Z",
+	  "numberOfTransactions": 14390531
+	  },
+	  {
+	   "date": "2017-08-14T00:02:24Z",
+	  "numberOfTransactions": 17009528
+	  },
+	  {
+	   "date": "2017-08-13T00:01:17Z",
+	  "numberOfTransactions": 919459
+	  },
+	  {
+	   "date": "2017-08-12T00:01:03Z",
+	  "numberOfTransactions": 823621
+	  },
+	  {
+	   "date": "2017-08-11T00:02:13Z",
+	  "numberOfTransactions": 15220959
+	  },
+	  {
+	   "date": "2017-08-10T00:04:25Z",
+	  "numberOfTransactions": 17962321
+	  },
+	  {
+	   "date": "2017-08-09T00:01:39Z",
+	  "numberOfTransactions": 18219682
+	  },
+	  {
+	   "date": "2017-08-08T00:01:28Z",
+	  "numberOfTransactions": 18933240
+	  },
+	  {
+	   "date": "2017-08-07T00:01:20Z",
+	  "numberOfTransactions": 17441953
+	  },
+	  {
+	   "date": "2017-08-06T00:01:03Z",
+	  "numberOfTransactions": 1033520
+	  },
+	  {
+	   "date": "2017-08-05T00:01:12Z",
+	  "numberOfTransactions": 1003814
+	  },
+	  {
+	   "date": "2017-08-04T00:01:21Z",
+	  "numberOfTransactions": 10869176
+	  },
+	  {
+	   "date": "2017-08-03T00:01:13Z",
+	  "numberOfTransactions": 12529973
+	  },
+	  {
+	   "date": "2017-08-02T00:01:21Z",
+	  "numberOfTransactions": 12074518
+	  },
+	  {
+	   "date": "2017-08-01T00:01:14Z",
+	  "numberOfTransactions": 11108559
+	  },
+	  {
+	   "date": "2017-07-31T22:48:52Z",
+	  "numberOfTransactions": 12914262
+	  },
+	  {
+	   "date": "2017-07-30T00:01:08Z",
+	  "numberOfTransactions": 1229792
+	  },
+	  {
+	   "date": "2017-07-29T00:01:12Z",
+	  "numberOfTransactions": 1523661
+	  },
+	  {
+	   "date": "2017-07-28T00:04:41Z",
+	  "numberOfTransactions": 13957613
+	  },
+	  {
+	   "date": "2017-07-27T00:01:33Z",
+	  "numberOfTransactions": 16003788
+	  },
+	  {
+	   "date": "2017-07-26T00:01:46Z",
+	  "numberOfTransactions": 1850571
+	  },
+	  {
+	   "date": "2017-07-25T00:02:14Z",
+	  "numberOfTransactions": 2086753
+	  },
+	  {
+	   "date": "2017-07-24T00:02:09Z",
+	  "numberOfTransactions": 2092314
+	  },
+	  {
+	   "date": "2017-07-23T00:02:06Z",
+	  "numberOfTransactions": 422611
+	  },
+	  {
+	   "date": "2017-07-22T00:01:38Z",
+	  "numberOfTransactions": 479663
+	  },
+	  {
+	   "date": "2017-07-21T00:01:59Z",
+	  "numberOfTransactions": 4043840
+	  },
+	  {
+	   "date": "2017-07-20T00:01:37Z",
+	  "numberOfTransactions": 4797709
+	  },
+	  {
+	   "date": "2017-07-19T00:01:45Z",
+	  "numberOfTransactions": 4643595
+	  },
+	  {
+	   "date": "2017-07-18T00:01:42Z",
+	  "numberOfTransactions": 5185735
+	  },
+	  {
+	   "date": "2017-07-17T00:01:43Z",
+	  "numberOfTransactions": 5517886
+	  },
+	  {
+	   "date": "2017-07-16T00:01:44Z",
+	  "numberOfTransactions": 564120
+	  },
+	  {
+	   "date": "2017-07-15T00:01:52Z",
+	  "numberOfTransactions": 678530
+	  },
+	  {
+	   "date": "2017-07-14T00:01:31Z",
+	  "numberOfTransactions": 7885647
+	  },
+	  {
+	   "date": "2017-07-13T00:01:44Z",
+	  "numberOfTransactions": 9745175
+	  },
+	  {
+	   "date": "2017-07-12T00:01:35Z",
+	  "numberOfTransactions": 10006413
+	  },
+	  {
+	   "date": "2017-07-11T00:01:40Z",
+	  "numberOfTransactions": 9502380
+	  },
+	  {
+	   "date": "2017-07-10T00:01:21Z",
+	  "numberOfTransactions": 9053436
+	  },
+	  {
+	   "date": "2017-07-09T00:01:35Z",
+	  "numberOfTransactions": 790391
+	  },
+	  {
+	   "date": "2017-07-08T00:01:27Z",
+	  "numberOfTransactions": 1179426
+	  },
+	  {
+	   "date": "2017-07-07T00:01:29Z",
+	  "numberOfTransactions": 9316629
+	  },
+	  {
+	   "date": "2017-07-06T00:01:20Z",
+	  "numberOfTransactions": 9487157
+	  },
+	  {
+	   "date": "2017-07-05T00:01:31Z",
+	  "numberOfTransactions": 7015041
+	  },
+	  {
+	   "date": "2017-07-04T00:01:35Z",
+	  "numberOfTransactions": 4069150
+	  },
+	  {
+	   "date": "2017-07-03T00:01:21Z",
+	  "numberOfTransactions": 5039382
+	  },
+	  {
+	   "date": "2017-07-02T00:01:21Z",
+	  "numberOfTransactions": 797536
+	  },
+	  {
+	   "date": "2017-07-01T00:01:12Z",
+	  "numberOfTransactions": 920582
+	  },
+	  {
+	   "date": "2017-06-30T00:01:22Z",
+	  "numberOfTransactions": 5449082
+	  },
+	  {
+	   "date": "2017-06-29T00:01:15Z",
+	  "numberOfTransactions": 5978267
+	  },
+	  {
+	   "date": "2017-06-28T00:01:28Z",
+	  "numberOfTransactions": 6180360
+	  },
+	  {
+	   "date": "2017-06-27T00:01:14Z",
+	  "numberOfTransactions": 6232724
+	  },
+	  {
+	   "date": "2017-06-26T00:02:01Z",
+	  "numberOfTransactions": 1825941
+	  },
+	  {
+	   "date": "2017-06-25T00:02:07Z",
+	  "numberOfTransactions": 748301
+	  },
+	  {
+	   "date": "2017-06-24T00:01:56Z",
+	  "numberOfTransactions": 859293
+	  },
+	  {
+	   "date": "2017-06-23T00:01:50Z",
+	  "numberOfTransactions": 7699067
+	  },
+	  {
+	   "date": "2017-06-22T00:01:42Z",
+	  "numberOfTransactions": 9415862
+	  },
+	  {
+	   "date": "2017-06-21T00:01:55Z",
+	  "numberOfTransactions": 10356577
+	  },
+	  {
+	   "date": "2017-06-20T00:01:34Z",
+	  "numberOfTransactions": 11072853
+	  },
+	  {
+	   "date": "2017-06-19T00:01:38Z",
+	  "numberOfTransactions": 11583157
+	  },
+	  {
+	   "date": "2017-06-18T00:01:28Z",
+	  "numberOfTransactions": 1820115
+	  },
+	  {
+	   "date": "2017-06-17T00:01:27Z",
+	  "numberOfTransactions": 1382623
+	  },
+	  {
+	   "date": "2017-06-16T00:01:24Z",
+	  "numberOfTransactions": 11246825
+	  },
+	  {
+	   "date": "2017-06-15T00:02:08Z",
+	  "numberOfTransactions": 13122676
+	  },
+	  {
+	   "date": "2017-06-14T00:01:25Z",
+	  "numberOfTransactions": 14974001
+	  },
+	  {
+	   "date": "2017-06-13T00:01:32Z",
+	  "numberOfTransactions": 14773855
+	  },
+	  {
+	   "date": "2017-06-12T00:01:17Z",
+	  "numberOfTransactions": 13964184
+	  },
+	  {
+	   "date": "2017-06-11T00:01:15Z",
+	  "numberOfTransactions": 743881
+	  },
+	  {
+	   "date": "2017-06-10T00:01:19Z",
+	  "numberOfTransactions": 768984
+	  },
+	  {
+	   "date": "2017-06-09T00:01:41Z",
+	  "numberOfTransactions": 12385622
+	  },
+	  {
+	   "date": "2017-06-08T00:02:43Z",
+	  "numberOfTransactions": 14163393
+	  },
+	  {
+	   "date": "2017-06-07T00:02:10Z",
+	  "numberOfTransactions": 13182733
+	  },
+	  {
+	   "date": "2017-06-06T00:02:28Z",
+	  "numberOfTransactions": 12026019
+	  },
+	  {
+	   "date": "2017-06-05T00:01:53Z",
+	  "numberOfTransactions": 9327081
+	  },
+	  {
+	   "date": "2017-06-04T00:02:06Z",
+	  "numberOfTransactions": 650528
+	  },
+	  {
+	   "date": "2017-06-03T00:01:55Z",
+	  "numberOfTransactions": 716523
+	  },
+	  {
+	   "date": "2017-06-02T00:01:48Z",
+	  "numberOfTransactions": 7856294
+	  },
+	  {
+	   "date": "2017-06-01T00:02:30Z",
+	  "numberOfTransactions": 7798246
+	  },
+	  {
+	   "date": "2017-05-31T00:01:41Z",
+	  "numberOfTransactions": 8395773
+	  },
+	  {
+	   "date": "2017-05-30T00:01:44Z",
+	  "numberOfTransactions": 8534807
+	  },
+	  {
+	   "date": "2017-05-29T00:01:36Z",
+	  "numberOfTransactions": 4606655
+	  },
+	  {
+	   "date": "2017-05-28T00:01:38Z",
+	  "numberOfTransactions": 701238
+	  },
+	  {
+	   "date": "2017-05-27T00:01:29Z",
+	  "numberOfTransactions": 737081
+	  },
+	  {
+	   "date": "2017-05-26T00:01:53Z",
+	  "numberOfTransactions": 7108802
+	  },
+	  {
+	   "date": "2017-05-25T00:02:01Z",
+	  "numberOfTransactions": 9195949
+	  },
+	  {
+	   "date": "2017-05-24T00:01:24Z",
+	  "numberOfTransactions": 10309553
+	  },
+	  {
+	   "date": "2017-05-23T00:01:23Z",
+	  "numberOfTransactions": 10657704
+	  },
+	  {
+	   "date": "2017-05-22T00:01:01Z",
+	  "numberOfTransactions": 11313612
+	  },
+	  {
+	   "date": "2017-05-21T00:01:14Z",
+	  "numberOfTransactions": 837091
+	  },
+	  {
+	   "date": "2017-05-20T00:01:08Z",
+	  "numberOfTransactions": 758067
+	  },
+	  {
+	   "date": "2017-05-19T00:01:25Z",
+	  "numberOfTransactions": 10383705
+	  },
+	  {
+	   "date": "2017-05-18T00:01:13Z",
+	  "numberOfTransactions": 11817331
+	  },
+	  {
+	   "date": "2017-05-17T00:00:59Z",
+	  "numberOfTransactions": 12490525
+	  },
+	  {
+	   "date": "2017-05-16T00:01:52Z",
+	  "numberOfTransactions": 13073012
+	  },
+	  {
+	   "date": "2017-05-15T00:01:45Z",
+	  "numberOfTransactions": 14728603
+	  },
+	  {
+	   "date": "2017-05-14T00:01:57Z",
+	  "numberOfTransactions": 875011
+	  },
+	  {
+	   "date": "2017-05-13T00:01:35Z",
+	  "numberOfTransactions": 958340
+	  },
+	  {
+	   "date": "2017-05-12T00:01:38Z",
+	  "numberOfTransactions": 14580116
+	  },
+	  {
+	   "date": "2017-05-11T00:01:42Z",
+	  "numberOfTransactions": 16844334
+	  },
+	  {
+	   "date": "2017-05-10T00:01:34Z",
+	  "numberOfTransactions": 16811721
+	  },
+	  {
+	   "date": "2017-05-09T00:01:38Z",
+	  "numberOfTransactions": 16984020
+	  },
+	  {
+	   "date": "2017-05-08T00:01:47Z",
+	  "numberOfTransactions": 16000137
+	  },
+	  {
+	   "date": "2017-05-07T00:02:00Z",
+	  "numberOfTransactions": 808159
+	  },
+	  {
+	   "date": "2017-05-06T00:03:15Z",
+	  "numberOfTransactions": 797820
+	  },
+	  {
+	   "date": "2017-05-05T00:01:40Z",
+	  "numberOfTransactions": 12328599
+	  },
+	  {
+	   "date": "2017-05-04T00:02:41Z",
+	  "numberOfTransactions": 12481034
+	  },
+	  {
+	   "date": "2017-05-03T00:01:15Z",
+	  "numberOfTransactions": 10451683
+	  },
+	  {
+	   "date": "2017-05-02T00:01:10Z",
+	  "numberOfTransactions": 10063503
+	  },
+	  {
+	   "date": "2017-05-01T00:01:09Z",
+	  "numberOfTransactions": 7450896
+	  },
+	  {
+	   "date": "2017-04-30T00:01:20Z",
+	  "numberOfTransactions": 1083565
+	  },
+	  {
+	   "date": "2017-04-29T00:00:56Z",
+	  "numberOfTransactions": 1134532
+	  },
+	  {
+	   "date": "2017-04-28T00:02:06Z",
+	  "numberOfTransactions": 10548026
+	  },
+	  {
+	   "date": "2017-04-27T00:02:21Z",
+	  "numberOfTransactions": 11000950
+	  },
+	  {
+	   "date": "2017-04-26T00:01:49Z",
+	  "numberOfTransactions": 11861523
+	  },
+	  {
+	   "date": "2017-04-25T00:01:29Z",
+	  "numberOfTransactions": 10647244
+	  },
+	  {
+	   "date": "2017-04-24T00:01:37Z",
+	  "numberOfTransactions": 10737945
+	  },
+	  {
+	   "date": "2017-04-23T00:01:50Z",
+	  "numberOfTransactions": 898260
+	  },
+	  {
+	   "date": "2017-04-22T00:01:33Z",
+	  "numberOfTransactions": 969401
+	  },
+	  {
+	   "date": "2017-04-21T00:01:36Z",
+	  "numberOfTransactions": 14221224
+	  },
+	  {
+	   "date": "2017-04-20T00:01:59Z",
+	  "numberOfTransactions": 17123611
+	  },
+	  {
+	   "date": "2017-04-19T00:01:20Z",
+	  "numberOfTransactions": 17822828
+	  },
+	  {
+	   "date": "2017-04-18T00:01:43Z",
+	  "numberOfTransactions": 17799979
+	  },
+	  {
+	   "date": "2017-04-17T00:01:01Z",
+	  "numberOfTransactions": 14477365
+	  },
+	  {
+	   "date": "2017-04-16T00:01:24Z",
+	  "numberOfTransactions": 905971
+	  },
+	  {
+	   "date": "2017-04-15T00:01:06Z",
+	  "numberOfTransactions": 1070637
+	  },
+	  {
+	   "date": "2017-04-14T00:00:57Z",
+	  "numberOfTransactions": 9907366
+	  },
+	  {
+	   "date": "2017-04-13T00:02:34Z",
+	  "numberOfTransactions": 18801580
+	  },
+	  {
+	   "date": "2017-04-12T00:01:25Z",
+	  "numberOfTransactions": 21587890
+	  },
+	  {
+	   "date": "2017-04-11T00:01:15Z",
+	  "numberOfTransactions": 21755849
+	  },
+	  {
+	   "date": "2017-04-10T00:01:09Z",
+	  "numberOfTransactions": 20898721
+	  },
+	  {
+	   "date": "2017-04-09T00:01:25Z",
+	  "numberOfTransactions": 1161280
+	  },
+	  {
+	   "date": "2017-04-08T00:01:08Z",
+	  "numberOfTransactions": 1723647
+	  },
+	  {
+	   "date": "2017-04-07T00:01:03Z",
+	  "numberOfTransactions": 16815976
+	  },
+	  {
+	   "date": "2017-04-06T00:02:44Z",
+	  "numberOfTransactions": 16823912
+	  },
+	  {
+	   "date": "2017-04-05T00:02:24Z",
+	  "numberOfTransactions": 14010897
+	  },
+	  {
+	   "date": "2017-04-04T00:01:58Z",
+	  "numberOfTransactions": 12811936
+	  },
+	  {
+	   "date": "2017-04-03T00:01:42Z",
+	  "numberOfTransactions": 10970869
+	  },
+	  {
+	   "date": "2017-04-02T00:01:55Z",
+	  "numberOfTransactions": 1083054
+	  },
+	  {
+	   "date": "2017-04-01T00:01:54Z",
+	  "numberOfTransactions": 1326671
+	  },
+	  {
+	   "date": "2017-03-31T00:01:49Z",
+	  "numberOfTransactions": 9691662
+	  },
+	  {
+	   "date": "2017-03-30T00:01:31Z",
+	  "numberOfTransactions": 9868574
+	  },
+	  {
+	   "date": "2017-03-29T00:01:05Z",
+	  "numberOfTransactions": 8814559
+	  },
+	  {
+	   "date": "2017-03-28T00:01:14Z",
+	  "numberOfTransactions": 10099666
+	  },
+	  {
+	   "date": "2017-03-27T00:01:11Z",
+	  "numberOfTransactions": 10240125
+	  },
+	  {
+	   "date": "2017-03-26T00:01:27Z",
+	  "numberOfTransactions": 885276
+	  },
+	  {
+	   "date": "2017-03-25T00:02:02Z",
+	  "numberOfTransactions": 892432
+	  },
+	  {
+	   "date": "2017-03-24T00:02:05Z",
+	  "numberOfTransactions": 9941364
+	  },
+	  {
+	   "date": "2017-03-23T00:04:25Z",
+	  "numberOfTransactions": 11657665
+	  },
+	  {
+	   "date": "2017-03-22T00:02:01Z",
+	  "numberOfTransactions": 12796683
+	  },
+	  {
+	   "date": "2017-03-21T00:01:46Z",
+	  "numberOfTransactions": 14214506
+	  },
+	  {
+	   "date": "2017-03-20T00:01:35Z",
+	  "numberOfTransactions": 15336965
+	  },
+	  {
+	   "date": "2017-03-19T00:02:00Z",
+	  "numberOfTransactions": 1028964
+	  },
+	  {
+	   "date": "2017-03-18T00:01:33Z",
+	  "numberOfTransactions": 969472
+	  },
+	  {
+	   "date": "2017-03-17T00:01:40Z",
+	  "numberOfTransactions": 12765588
+	  },
+	  {
+	   "date": "2017-03-16T00:02:48Z",
+	  "numberOfTransactions": 15671137
+	  },
+	  {
+	   "date": "2017-03-15T00:01:25Z",
+	  "numberOfTransactions": 0
+	  },
+	  {
+	   "date": "2017-03-14T00:01:31Z",
+	  "numberOfTransactions": 20787745
+	  },
+	  {
+	   "date": "2017-03-13T00:01:14Z",
+	  "numberOfTransactions": 19639535
+	  },
+	  {
+	   "date": "2017-03-12T00:01:17Z",
+	  "numberOfTransactions": 1217323
+	  },
+	  {
+	   "date": "2017-03-11T00:01:21Z",
+	  "numberOfTransactions": 1333867
+	  },
+	  {
+	   "date": "2017-03-10T00:01:14Z",
+	  "numberOfTransactions": 17506943
+	  },
+	  {
+	   "date": "2017-03-09T00:01:06Z",
+	  "numberOfTransactions": 19404012
+	  },
+	  {
+	   "date": "2017-03-08T00:01:22Z",
+	  "numberOfTransactions": 18885927
+	  },
+	  {
+	   "date": "2017-03-07T22:31:03Z",
+	  "numberOfTransactions": 18421477
+	  },
+	  {
+	   "date": "2017-03-02T00:01:52Z",
+	  "numberOfTransactions": 10329664
+	  },
+	  {
+	   "date": "2017-03-01T00:02:04Z",
+	  "numberOfTransactions": 11701447
+	  },
+	  {
+	   "date": "2017-02-28T00:01:53Z",
+	  "numberOfTransactions": 13841384
+	  },
+	  {
+	   "date": "2017-02-27T00:01:47Z",
+	  "numberOfTransactions": 13859936
+	  },
+	  {
+	   "date": "2017-02-26T00:01:38Z",
+	  "numberOfTransactions": 1689545
+	  },
+	  {
+	   "date": "2017-02-25T00:02:03Z",
+	  "numberOfTransactions": 2002774
+	  },
+	  {
+	   "date": "2017-02-24T00:02:09Z",
+	  "numberOfTransactions": 14780283
+	  },
+	  {
+	   "date": "2017-02-23T00:01:44Z",
+	  "numberOfTransactions": 16638147
+	  },
+	  {
+	   "date": "2017-02-22T00:01:45Z",
+	  "numberOfTransactions": 18057963
+	  },
+	  {
+	   "date": "2017-02-21T00:01:16Z",
+	  "numberOfTransactions": 19546096
+	  },
+	  {
+		"date": "2017-02-20T00:01:15Z",
+		"numberOfTransactions": 16905795
+	  },
+	  {
+	   "date": "2017-02-19T00:01:17Z",
+	  "numberOfTransactions": 1553860
+	  },
+	  {
+	   "date": "2017-02-18T00:01:09Z",
+	  "numberOfTransactions": 1618514
+	  },
+	  {
+	   "date": "2017-02-17T00:01:11Z",
+	  "numberOfTransactions": 17220700
+	  },
+	  {
+	   "date": "2017-02-16T00:01:14Z",
+	  "numberOfTransactions": 20509310
+	  },
+	  {
+	   "date": "2017-02-15T00:01:33Z",
+	  "numberOfTransactions": 21914580
+	  },
+	  {
+	   "date": "2017-02-14T00:01:07Z",
+	  "numberOfTransactions": 22927403
+	  },
+	  {
+	   "date": "2017-02-13T00:01:06Z",
+	  "numberOfTransactions": 23462031
+	  },
+	  {
+	   "date": "2017-02-12T00:01:00Z",
+	  "numberOfTransactions": 1608592
+	  },
+	  {
+	   "date": "2017-02-11T00:01:01Z",
+	  "numberOfTransactions": 1678033
+	  },
+	  {
+	   "date": "2017-02-10T00:01:03Z",
+	  "numberOfTransactions": 19932605
+	  },
+	  {
+	   "date": "2017-02-09T00:01:05Z",
+	  "numberOfTransactions": 21726251
+	  },
+	  {
+	   "date": "2017-02-08T00:02:02Z",
+	  "numberOfTransactions": 22123867
+	  },
+	  {
+	   "date": "2017-02-07T00:01:42Z",
+	  "numberOfTransactions": 20529296
+	  },
+	  {
+	   "date": "2017-02-06T00:01:46Z",
+	  "numberOfTransactions": 17504207
+	  },
+	  {
+	   "date": "2017-02-05T00:01:37Z",
+	  "numberOfTransactions": 1509548
+	  },
+	  {
+	   "date": "2017-02-04T00:01:31Z",
+	  "numberOfTransactions": 1967517
+	  },
+	  {
+	   "date": "2017-02-03T00:01:28Z",
+	  "numberOfTransactions": 14322451
+	  },
+	  {
+	   "date": "2017-02-02T00:01:35Z",
+	  "numberOfTransactions": 14085331
+	  },
+	  {
+	   "date": "2017-02-01T00:01:20Z",
+	  "numberOfTransactions": 13700052
+	  },
+	  {
+	   "date": "2017-01-31T00:01:30Z",
+	  "numberOfTransactions": 15629134
+	  },
+	  {
+	   "date": "2017-01-30T00:00:56Z",
+	  "numberOfTransactions": 15675617
+	  },
+	  {
+	   "date": "2017-01-29T00:00:51Z",
+	  "numberOfTransactions": 1786722
+	  },
+	  {
+	   "date": "2017-01-28T00:01:12Z",
+	  "numberOfTransactions": 1958982
+	  },
+	  {
+	   "date": "2017-01-27T00:01:10Z",
+	  "numberOfTransactions": 13893185
+	  },
+	  {
+	   "date": "2017-01-26T00:01:28Z",
+	  "numberOfTransactions": 10705932
+	  },
+	  {
+	   "date": "2017-01-25T00:01:18Z",
+	  "numberOfTransactions": 12353211
+	  },
+	  {
+	   "date": "2017-01-24T00:01:23Z",
+	  "numberOfTransactions": 13055118
+	  },
+	  {
+	   "date": "2017-01-23T00:00:57Z",
+	  "numberOfTransactions": 13474877
+	  },
+	  {
+	   "date": "2017-01-22T00:00:49Z",
+	  "numberOfTransactions": 1484519
+	  },
+	  {
+	   "date": "2017-01-21T00:01:04Z",
+	  "numberOfTransactions": 1598180
+	  },
+	  {
+	   "date": "2017-01-20T00:01:26Z",
+	  "numberOfTransactions": 13666100
+	  },
+	  {
+	   "date": "2017-01-19T00:02:27Z",
+	  "numberOfTransactions": 14653117
+	  },
+	  {
+	   "date": "2017-01-18T00:01:23Z",
+	  "numberOfTransactions": 15303871
+	  },
+	  {
+	   "date": "2017-01-17T00:01:09Z",
+	  "numberOfTransactions": 16220654
+	  },
+	  {
+	   "date": "2017-01-16T00:01:31Z",
+	  "numberOfTransactions": 15243220
+	  },
+	  {
+	   "date": "2017-01-15T01:01:41Z",
+	  "numberOfTransactions": 1533945
+	  },
+	  {
+	   "date": "2017-01-14T00:01:31Z",
+	  "numberOfTransactions": 458709
+	  },
+	  {
+	   "date": "2017-01-13T00:02:12Z",
+	  "numberOfTransactions": 16347897
+	  },
+	  {
+	   "date": "2017-01-12T00:02:47Z",
+	  "numberOfTransactions": 17955684
+	  },
+	  {
+	   "date": "2017-01-11T00:03:16Z",
+	  "numberOfTransactions": 17393009
+	  },
+	  {
+	   "date": "2017-01-10T00:02:00Z",
+	  "numberOfTransactions": 17032342
+	  },
+	  {
+	   "date": "2017-01-09T00:01:26Z",
+	  "numberOfTransactions": 15640626
+	  },
+	  {
+	   "date": "2017-01-08T00:03:08Z",
+	  "numberOfTransactions": 1543257
+	  },
+	  {
+	   "date": "2017-01-07T00:01:57Z",
+	  "numberOfTransactions": 2728141
+	  },
+	  {
+	   "date": "2017-01-06T00:05:21Z",
+	  "numberOfTransactions": 11579245
+	  },
+	  {
+	   "date": "2017-01-05T00:02:00Z",
+	  "numberOfTransactions": 11277478
+	  },
+	  {
+	   "date": "2017-01-04T00:03:30Z",
+	  "numberOfTransactions": 9620546
+	  },
+	  {
+	   "date": "2017-01-03T00:01:44Z",
+	  "numberOfTransactions": 8116534
+	  },
+	  {
+	   "date": "2017-01-02T00:01:31Z",
+	  "numberOfTransactions": 3131439
+	  },
+	  {
+	   "date": "2017-01-01T00:01:34Z",
+	  "numberOfTransactions": 641001
+	  },
+	  {
+	   "date": "2016-12-31T00:01:31Z",
+	  "numberOfTransactions": 947842
+	  },
+	  {
+	   "date": "2016-12-30T00:01:23Z",
+	  "numberOfTransactions": 5443592
+	  },
+	  {
+	   "date": "2016-12-29T00:01:19Z",
+	  "numberOfTransactions": 7541727
+	  },
+	  {
+	   "date": "2016-12-28T00:01:06Z",
+	  "numberOfTransactions": 11037173
+	  },
+	  {
+	   "date": "2016-12-27T00:01:08Z",
+	  "numberOfTransactions": 9558824
+	  },
+	  {
+	   "date": "2016-12-26T00:01:12Z",
+	  "numberOfTransactions": 3133047
+	  },
+	  {
+	   "date": "2016-12-25T00:00:59Z",
+	  "numberOfTransactions": 757133
+	  },
+	  {
+	   "date": "2016-12-24T00:00:59Z",
+	  "numberOfTransactions": 955955
+	  },
+	  {
+	   "date": "2016-12-23T00:01:07Z",
+	  "numberOfTransactions": 8023984
+	  },
+	  {
+	   "date": "2016-12-22T00:01:47Z",
+	  "numberOfTransactions": 0
+	  },
+	  {
+	   "date": "2016-12-21T00:01:38Z",
+	  "numberOfTransactions": 17063260
+	  },
+	  {
+	   "date": "2016-12-20T00:01:30Z",
+	  "numberOfTransactions": 19008153
+	  },
+	  {
+	   "date": "2016-12-19T00:01:17Z",
+	  "numberOfTransactions": 19331986
+	  },
+	  {
+	   "date": "2016-12-18T00:01:14Z",
+	  "numberOfTransactions": 1709306
+	  },
+	  {
+	   "date": "2016-12-17T00:01:18Z",
+	  "numberOfTransactions": 1917639
+	  },
+	  {
+	   "date": "2016-12-16T00:01:37Z",
+	  "numberOfTransactions": 16536267
+	  },
+	  {
+	   "date": "2016-12-15T00:00:57Z",
+	  "numberOfTransactions": 20794216
+	  },
+	  {
+	   "date": "2016-12-14T00:01:08Z",
+	  "numberOfTransactions": 23379464
+	  },
+	  {
+	   "date": "2016-12-13T00:00:53Z",
+	  "numberOfTransactions": 23557889
+	  },
+	  {
+	   "date": "2016-12-12T00:00:42Z",
+	  "numberOfTransactions": 22765624
+	  },
+	  {
+	   "date": "2016-12-11T00:00:48Z",
+	  "numberOfTransactions": 1500221
+	  },
+	  {
+	   "date": "2016-12-10T00:00:55Z",
+	  "numberOfTransactions": 1745243
+	  },
+	  {
+	   "date": "2016-12-09T00:00:47Z",
+	  "numberOfTransactions": 18878934
+	  },
+	  {
+	   "date": "2016-12-08T00:00:52Z",
+	  "numberOfTransactions": 21056255
+	  },
+	  {
+	   "date": "2016-12-07T00:00:50Z",
+	  "numberOfTransactions": 20659130
+	  },
+	  {
+	   "date": "2016-12-06T00:02:15Z",
+	  "numberOfTransactions": 18095293
+	  },
+	  {
+	   "date": "2016-12-05T00:01:16Z",
+	  "numberOfTransactions": 15694327
+	  },
+	  {
+	   "date": "2016-12-04T00:01:07Z",
+	  "numberOfTransactions": 1546469
+	  },
+	  {
+	   "date": "2016-12-03T00:01:18Z",
+	  "numberOfTransactions": 1799516
+	  },
+	  {
+	   "date": "2016-12-02T00:01:15Z",
+	  "numberOfTransactions": 12603651
+	  },
+	  {
+	   "date": "2016-12-01T00:01:17Z",
+	  "numberOfTransactions": 13253592
+	  },
+	  {
+	   "date": "2016-11-30T00:01:25Z",
+	  "numberOfTransactions": 15854735
+	  },
+	  {
+	   "date": "2016-11-29T00:01:01Z",
+	  "numberOfTransactions": 15330758
+	  },
+	  {
+	   "date": "2016-11-28T00:00:55Z",
+	  "numberOfTransactions": 15088033
+	  },
+	  {
+	   "date": "2016-11-27T00:01:03Z",
+	  "numberOfTransactions": 1623769
+	  },
+	  {
+	   "date": "2016-11-26T00:00:44Z",
+	  "numberOfTransactions": 1271894
+	  },
+	  {
+	   "date": "2016-11-25T00:00:41Z",
+	  "numberOfTransactions": 7429179
+	  },
+	  {
+	   "date": "2016-11-24T00:00:41Z",
+	  "numberOfTransactions": 7830976
+	  },
+	  {
+	   "date": "2016-11-23T00:01:16Z",
+	  "numberOfTransactions": 13887285
+	  },
+	  {
+	   "date": "2016-11-22T00:00:45Z",
+	  "numberOfTransactions": 17261012
+	  },
+	  {
+	   "date": "2016-11-21T00:01:32Z",
+	  "numberOfTransactions": 19337111
+	  },
+	  {
+	   "date": "2016-11-20T00:01:27Z",
+	  "numberOfTransactions": 1857522
+	  },
+	  {
+	   "date": "2016-11-19T00:01:36Z",
+	  "numberOfTransactions": 1877394
+	  },
+	  {
+	   "date": "2016-11-18T00:01:26Z",
+	  "numberOfTransactions": 10700731
+	  },
+	  {
+	   "date": "2016-11-17T00:01:37Z",
+	  "numberOfTransactions": 12131114
+	  },
+	  {
+	   "date": "2016-11-16T00:01:12Z",
+	  "numberOfTransactions": 12839741
+	  },
+	  {
+	   "date": "2016-11-15T00:01:11Z",
+	  "numberOfTransactions": 13959917
+	  },
+	  {
+	   "date": "2016-11-14T00:01:04Z",
+	  "numberOfTransactions": 14365233
+	  },
+	  {
+	   "date": "2016-11-13T00:01:03Z",
+	  "numberOfTransactions": 1204630
+	  },
+	  {
+	   "date": "2016-11-12T00:01:08Z",
+	  "numberOfTransactions": 1220102
+	  },
+	  {
+	   "date": "2016-11-11T00:01:17Z",
+	  "numberOfTransactions": 11781604
+	  },
+	  {
+	   "date": "2016-11-10T00:00:58Z",
+	  "numberOfTransactions": 14762019
+	  },
+	  {
+	   "date": "2016-11-09T00:05:45Z",
+	  "numberOfTransactions": 14134942
+	  },
+	  {
+	   "date": "2016-11-08T00:00:53Z",
+	  "numberOfTransactions": 14535958
+	  },
+	  {
+	   "date": "2016-11-07T00:00:48Z",
+	  "numberOfTransactions": 13021237
+	  },
+	  {
+	   "date": "2016-11-06T00:00:47Z",
+	  "numberOfTransactions": 1022393
+	  },
+	  {
+	   "date": "2016-11-05T00:00:41Z",
+	  "numberOfTransactions": 1048180
+	  },
+	  {
+	   "date": "2016-11-04T00:00:38Z",
+	  "numberOfTransactions": 10170843
+	  },
+	  {
+	   "date": "2016-11-03T00:00:43Z",
+	  "numberOfTransactions": 10067148
+	  },
+	  {
+	   "date": "2016-11-02T00:01:33Z",
+	  "numberOfTransactions": 9411972
+	  },
+	  {
+	   "date": "2016-11-01T00:01:25Z",
+	  "numberOfTransactions": 7877781
+	  },
+	  {
+	   "date": "2016-10-31T00:01:15Z",
+	  "numberOfTransactions": 8489323
+	  },
+	  {
+	   "date": "2016-10-30T00:01:13Z",
+	  "numberOfTransactions": 1068573
+	  },
+	  {
+	   "date": "2016-10-29T00:01:09Z",
+	  "numberOfTransactions": 1110602
+	  },
+	  {
+	   "date": "2016-10-28T00:01:03Z",
+	  "numberOfTransactions": 8102557
+	  },
+	  {
+	   "date": "2016-10-27T00:01:11Z",
+	  "numberOfTransactions": 9091323
+	  },
+	  {
+	   "date": "2016-10-26T00:00:52Z",
+	  "numberOfTransactions": 10310190
+	  },
+	  {
+	   "date": "2016-10-25T00:00:49Z",
+	  "numberOfTransactions": 12335029
+	  },
+	  {
+	   "date": "2016-10-24T00:00:42Z",
+	  "numberOfTransactions": 13131536
+	  },
+	  {
+	   "date": "2016-10-23T00:00:52Z",
+	  "numberOfTransactions": 2355649
+	  },
+	  {
+	   "date": "2016-10-22T00:00:36Z",
+	  "numberOfTransactions": 2408736
+	  },
+	  {
+	   "date": "2016-10-21T00:00:34Z",
+	  "numberOfTransactions": 11768387
+	  },
+	  {
+	   "date": "2016-10-20T00:01:07Z",
+	  "numberOfTransactions": 14677929
+	  },
+	  {
+	   "date": "2016-10-19T00:00:47Z",
+	  "numberOfTransactions": 15473134
+	  },
+	  {
+	   "date": "2016-10-18T00:00:54Z",
+	  "numberOfTransactions": 15600802
+	  },
+	  {
+	   "date": "2016-10-17T00:00:38Z",
+	  "numberOfTransactions": 16139612
+	  },
+	  {
+	   "date": "2016-10-16T00:00:45Z",
+	  "numberOfTransactions": 1750650
+	  },
+	  {
+	   "date": "2016-10-15T00:00:58Z",
+	  "numberOfTransactions": 1877074
+	  },
+	  {
+	   "date": "2016-10-14T00:00:31Z",
+	  "numberOfTransactions": 15544878
+	  },
+	  {
+	   "date": "2016-10-13T00:00:46Z",
+	  "numberOfTransactions": 17160142
+	  },
+	  {
+	   "date": "2016-10-12T00:00:33Z",
+	  "numberOfTransactions": 17274959
+	  },
+	  {
+	   "date": "2016-10-11T00:00:47Z",
+	  "numberOfTransactions": 16557967
+	  },
+	  {
+	   "date": "2016-10-10T00:00:34Z",
+	  "numberOfTransactions": 15172684
+	  },
+	  {
+	   "date": "2016-10-09T00:01:29Z",
+	  "numberOfTransactions": 1642753
+	  },
+	  {
+	   "date": "2016-10-08T00:00:36Z",
+	  "numberOfTransactions": 1721143
+	  },
+	  {
+	   "date": "2016-10-07T00:00:48Z",
+	  "numberOfTransactions": 12969780
+	  },
+	  {
+	   "date": "2016-10-06T00:01:40Z",
+	  "numberOfTransactions": 13235319
+	  },
+	  {
+	   "date": "2016-10-05T00:00:51Z",
+	  "numberOfTransactions": 11056424
+	  },
+	  {
+	   "date": "2016-10-04T00:00:59Z",
+	  "numberOfTransactions": 9920874
+	  },
+	  {
+	   "date": "2016-10-03T00:00:45Z",
+	  "numberOfTransactions": 8306188
+	  },
+	  {
+	   "date": "2016-10-02T00:00:48Z",
+	  "numberOfTransactions": 1037413
+	  },
+	  {
+	   "date": "2016-10-01T00:00:48Z",
+	  "numberOfTransactions": 1295059
+	  },
+	  {
+	   "date": "2016-09-30T00:00:47Z",
+	  "numberOfTransactions": 7777770
+	  },
+	  {
+	   "date": "2016-09-29T00:00:49Z",
+	  "numberOfTransactions": 8419318
+	  },
+	  {
+	   "date": "2016-09-28T00:00:58Z",
+	  "numberOfTransactions": 7999584
+	  },
+	  {
+	   "date": "2016-09-27T00:00:48Z",
+	  "numberOfTransactions": 8149546
+	  },
+	  {
+	   "date": "2016-09-26T00:00:39Z",
+	  "numberOfTransactions": 8608363
+	  },
+	  {
+	   "date": "2016-09-25T00:00:44Z",
+	  "numberOfTransactions": 1071871
+	  },
+	  {
+	   "date": "2016-09-24T00:00:38Z",
+	  "numberOfTransactions": 1057254
+	  },
+	  {
+	   "date": "2016-09-23T00:00:42Z",
+	  "numberOfTransactions": 8317892
+	  },
+	  {
+	   "date": "2016-09-22T00:02:09Z",
+	  "numberOfTransactions": 9688749
+	  },
+	  {
+	   "date": "2016-09-21T00:02:53Z",
+	  "numberOfTransactions": 10397395
+	  },
+	  {
+	   "date": "2016-09-20T00:01:16Z",
+	  "numberOfTransactions": 968291
+	  },
+	  {
+	   "date": "2016-09-19T00:00:45Z",
+	  "numberOfTransactions": 11391083
+	  },
+	  {
+	   "date": "2016-09-18T00:02:10Z",
+	  "numberOfTransactions": 998875
+	  },
+	  {
+	   "date": "2016-09-17T00:01:58Z",
+	  "numberOfTransactions": 926705
+	  },
+	  {
+	   "date": "2016-09-16T00:00:43Z",
+	  "numberOfTransactions": 10145535
+	  },
+	  {
+	   "date": "2016-09-15T00:01:17Z",
+	  "numberOfTransactions": 11527408
+	  },
+	  {
+	   "date": "2016-09-14T00:00:43Z",
+	  "numberOfTransactions": 12645833
+	  },
+	  {
+	   "date": "2016-09-13T00:05:35Z",
+	  "numberOfTransactions": 12618982
+	  },
+	  {
+	   "date": "2016-09-12T00:00:37Z",
+	  "numberOfTransactions": 11697977
+	  },
+	  {
+	   "date": "2016-09-11T00:00:36Z",
+	  "numberOfTransactions": 785943
+	  },
+	  {
+	   "date": "2016-09-10T00:00:40Z",
+	  "numberOfTransactions": 824140
+	  },
+	  {
+	   "date": "2016-09-09T00:00:31Z",
+	  "numberOfTransactions": 10461913
+	  },
+	  {
+	   "date": "2016-09-08T00:00:51Z",
+	  "numberOfTransactions": 11685396
+	  },
+	  {
+	   "date": "2016-09-07T01:01:07Z",
+	  "numberOfTransactions": 10624191
+	  },
+	  {
+	   "date": "2016-09-06T00:01:06Z",
+	  "numberOfTransactions": 9363922
+	  },
+	  {
+	   "date": "2016-09-05T00:01:01Z",
+	  "numberOfTransactions": 3843958
+	  },
+	  {
+	   "date": "2016-09-04T00:01:02Z",
+	  "numberOfTransactions": 657616
+	  },
+	  {
+	   "date": "2016-09-03T00:01:08Z",
+	  "numberOfTransactions": 694183
+	  },
+	  {
+	   "date": "2016-09-02T00:01:14Z",
+	  "numberOfTransactions": 6857592
+	  },
+	  {
+	   "date": "2016-09-01T00:01:30Z",
+	  "numberOfTransactions": 7229408
+	  },
+	  {
+	   "date": "2016-08-31T00:01:06Z",
+	  "numberOfTransactions": 7314265
+	  },
+	  {
+	   "date": "2016-08-30T00:01:09Z",
+	  "numberOfTransactions": 7446621
+	  },
+	  {
+	   "date": "2016-08-29T00:00:54Z",
+	  "numberOfTransactions": 7053340
+	  },
+	  {
+	   "date": "2016-08-28T00:00:55Z",
+	  "numberOfTransactions": 806662
+	  },
+	  {
+	   "date": "2016-08-27T00:00:51Z",
+	  "numberOfTransactions": 741390
+	  },
+	  {
+	   "date": "2016-08-26T00:03:04Z",
+	  "numberOfTransactions": 6485361
+	  },
+	  {
+	   "date": "2016-08-25T00:01:19Z",
+	  "numberOfTransactions": 8923696
+	  },
+	  {
+	   "date": "2016-08-24T00:00:47Z",
+	  "numberOfTransactions": 8529474
+	  },
+	  {
+	   "date": "2016-08-23T00:00:48Z",
+	  "numberOfTransactions": 8809431
+	  },
+	  {
+	   "date": "2016-08-22T00:00:44Z",
+	  "numberOfTransactions": 9220302
+	  },
+	  {
+	   "date": "2016-08-21T00:00:47Z",
+	  "numberOfTransactions": 815909
+	  },
+	  {
+	   "date": "2016-08-20T00:00:40Z",
+	  "numberOfTransactions": 711248
+	  },
+	  {
+	   "date": "2016-08-19T00:00:54Z",
+	  "numberOfTransactions": 7884730
+	  },
+	  {
+	   "date": "2016-08-18T00:01:01Z",
+	  "numberOfTransactions": 9124087
+	  },
+	  {
+	   "date": "2016-08-17T00:00:42Z",
+	  "numberOfTransactions": 9934383
+	  },
+	  {
+	   "date": "2016-08-16T00:25:45Z",
+	  "numberOfTransactions": 10459603
+	  },
+	  {
+	   "date": "2016-08-15T00:00:35Z",
+	  "numberOfTransactions": 8967232
+	  },
+	  {
+	   "date": "2016-08-14T00:00:39Z",
+	  "numberOfTransactions": 753373
+	  },
+	  {
+	   "date": "2016-08-13T00:00:43Z",
+	  "numberOfTransactions": 689465
+	  },
+	  {
+	   "date": "2016-08-12T00:00:36Z",
+	  "numberOfTransactions": 10131165
+	  },
+	  {
+	   "date": "2016-08-11T00:01:01Z",
+	  "numberOfTransactions": 11966842
+	  },
+	  {
+	   "date": "2016-08-10T00:00:39Z",
+	  "numberOfTransactions": 12513931
+	  },
+	  {
+	   "date": "2016-08-09T00:00:52Z",
+	  "numberOfTransactions": 12555757
+	  },
+	  {
+	   "date": "2016-08-08T00:00:41Z",
+	  "numberOfTransactions": 12050193
+	  },
+	  {
+	   "date": "2016-08-07T00:00:44Z",
+	  "numberOfTransactions": 772645
+	  },
+	  {
+	   "date": "2016-08-06T00:00:49Z",
+	  "numberOfTransactions": 770984
+	  },
+	  {
+	   "date": "2016-08-05T00:00:43Z",
+	  "numberOfTransactions": 9546425
+	  },
+	  {
+	   "date": "2016-08-04T00:01:42Z",
+	  "numberOfTransactions": 9856698
+	  },
+	  {
+	   "date": "2016-08-03T00:01:32Z",
+	  "numberOfTransactions": 8626974
+	  },
+	  {
+	   "date": "2016-08-02T00:01:51Z",
+	  "numberOfTransactions": 7694542
+	  },
+	  {
+	   "date": "2016-08-01T00:01:20Z",
+	  "numberOfTransactions": 6713577
+	  },
+	  {
+		"date": "2015-10-07T17:01:58Z",
+		"numberOfTransactions": 7506371
+	  }
+	]
+  }
+  

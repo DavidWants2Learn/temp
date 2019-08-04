@@ -1,0 +1,1732 @@
+﻿{
+    "release": [
+      {
+        "startDateTime": "2019-12-21T03:00:00+00:00",
+        "endDateTime": "2019-12-22T07:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-12-21T03:00:00+00:00",
+        "endDateTime": "2019-12-22T07:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-12-21T03:00:00+00:00",
+        "endDateTime": "2019-12-22T07:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-12-07T00:00:00+00:00",
+        "endDateTime": "2019-12-08T02:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-12-07T00:00:00+00:00",
+        "endDateTime": "2019-12-08T02:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-12-07T00:00:00+00:00",
+        "endDateTime": "2019-12-08T02:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-11-16T03:00:00+00:00",
+        "endDateTime": "2019-11-17T07:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-11-16T03:00:00+00:00",
+        "endDateTime": "2019-11-17T07:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-11-16T03:00:00+00:00",
+        "endDateTime": "2019-11-17T07:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-11-01T23:00:00+00:00",
+        "endDateTime": "2019-11-03T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-11-01T23:00:00+00:00",
+        "endDateTime": "2019-11-03T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-11-01T23:00:00+00:00",
+        "endDateTime": "2019-11-03T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-10-19T02:00:00+00:00",
+        "endDateTime": "2019-10-20T06:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-10-19T02:00:00+00:00",
+        "endDateTime": "2019-10-20T06:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-10-19T02:00:00+00:00",
+        "endDateTime": "2019-10-20T06:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-10-19T00:00:00+00:00",
+        "endDateTime": "2019-10-19T12:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Production data centers for the October 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.24.0 October Production Release"
+      },
+      {
+        "startDateTime": "2019-10-19T00:00:00+00:00",
+        "endDateTime": "2019-10-19T12:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Production data centers for the October 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.24.0 October Production Release"
+      },
+      {
+        "startDateTime": "2019-10-04T23:00:00+00:00",
+        "endDateTime": "2019-10-06T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-10-04T23:00:00+00:00",
+        "endDateTime": "2019-10-06T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-10-04T23:00:00+00:00",
+        "endDateTime": "2019-10-06T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-10-04T18:00:00+00:00",
+        "endDateTime": "2019-10-05T01:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Sandbox data centers for the October 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.24.0 October Sandbox Release"
+      },
+      {
+        "startDateTime": "2019-10-04T18:00:00+00:00",
+        "endDateTime": "2019-10-05T01:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Sandbox data centers for the October 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.24.0 October Sandbox Release"
+      },
+      {
+        "startDateTime": "2019-09-21T02:00:00+00:00",
+        "endDateTime": "2019-09-22T06:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-09-21T02:00:00+00:00",
+        "endDateTime": "2019-09-22T06:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-09-21T02:00:00+00:00",
+        "endDateTime": "2019-09-22T06:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-09-06T23:00:00+00:00",
+        "endDateTime": "2019-09-08T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-09-06T23:00:00+00:00",
+        "endDateTime": "2019-09-08T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-09-06T23:00:00+00:00",
+        "endDateTime": "2019-09-08T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-08-17T02:00:00+00:00",
+        "endDateTime": "2019-08-18T06:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-08-17T02:00:00+00:00",
+        "endDateTime": "2019-08-18T06:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-08-17T02:00:00+00:00",
+        "endDateTime": "2019-08-18T06:59:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-08-17T00:00:00+00:00",
+        "endDateTime": "2019-08-17T12:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Production data centers for the August 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.23.0 August Production Release"
+      },
+      {
+        "startDateTime": "2019-08-17T00:00:00+00:00",
+        "endDateTime": "2019-08-17T12:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Production data centers for the August 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.23.0 August Production Release"
+      },
+      {
+        "startDateTime": "2019-08-02T23:00:00+00:00",
+        "endDateTime": "2019-08-04T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-08-02T23:00:00+00:00",
+        "endDateTime": "2019-08-04T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-08-02T23:00:00+00:00",
+        "endDateTime": "2019-08-04T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-08-02T18:00:00+00:00",
+        "endDateTime": "2019-08-03T01:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Sandbox data centers for the August 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.23.0 August Sandbox Release"
+      },
+      {
+        "startDateTime": "2019-08-02T18:00:00+00:00",
+        "endDateTime": "2019-08-03T01:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Sandbox data centers for the August 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.23.0 August Sandbox Release"
+      },
+      {
+        "startDateTime": "2019-07-20T02:00:00+00:00",
+        "endDateTime": "2019-07-20T06:30:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-07-20T02:00:00+00:00",
+        "endDateTime": "2019-07-20T06:30:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-07-19T21:00:00+00:00",
+        "endDateTime": "2019-07-20T03:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Patching"
+      },
+      {
+        "startDateTime": "2019-07-05T21:00:00+00:00",
+        "endDateTime": "2019-07-07T03:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-07-05T21:00:00+00:00",
+        "endDateTime": "2019-07-07T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-07-05T21:00:00+00:00",
+        "endDateTime": "2019-07-06T10:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Times are subject to change, but will be updated before and after maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "SandBox Patching"
+      },
+      {
+        "startDateTime": "2019-06-22T00:00:00+00:00",
+        "endDateTime": "2019-06-22T01:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our Production data centers. During this time, users with active sessions will be redirected to the login page. The release notes are available in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.22.0  Release Update"
+      },
+      {
+        "startDateTime": "2019-06-22T00:00:00+00:00",
+        "endDateTime": "2019-06-22T01:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our Production data centers. During this time, users with active sessions will be redirected to the login page. The release notes are available in the Community under the Alerts section.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.22.0 Release Update"
+      },
+      {
+        "startDateTime": "2019-06-18T02:00:00+00:00",
+        "endDateTime": "2019-06-18T03:23:00+00:00",
+        "description": "We have completed our maintenance period and FTP services have been restored to normal operations. We will continue to monitor the service for any disruptions. ",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "EMERGENCY CHANGE Intermittent FTP Connectivity Issues"
+      },
+      {
+        "startDateTime": "2019-06-15T13:00:00+00:00",
+        "endDateTime": "2019-06-15T19:15:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, BlackLine will be performing maintenance in our US environment on 6/15/19 6:00AM PST/1:00PM UTC. During this time, the application will be unavailable.\n\nMaintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect.\nOur goal is always to provide the highest quality product possible, so we appreciate your patience. Please visit Trust.blackline.com for information on the status of this maintenance.\n",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Maintenance"
+      },
+      {
+        "startDateTime": "2019-06-15T13:00:00+00:00",
+        "endDateTime": "2019-06-15T19:15:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, BlackLine will be performing maintenance in our US environment on 6/15/19 6:00AM PST/1:00PM UTC. During this time, the application will be unavailable.\n\nMaintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect.\nOur goal is always to provide the highest quality product possible, so we appreciate your patience. Please visit Trust.blackline.com for information on the status of this maintenance.\n",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Maintenance"
+      },
+      {
+        "startDateTime": "2019-06-15T01:00:00+00:00",
+        "endDateTime": "2019-06-15T05:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-06-15T01:00:00+00:00",
+        "endDateTime": "2019-06-15T05:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-06-14T21:00:00+00:00",
+        "endDateTime": "2019-06-15T05:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-06-11T18:00:00+00:00",
+        "endDateTime": "2019-06-11T18:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox data centers. During this time, users with active sessions will be redirected to the login page. The release notes are available in the Community under the Alerts section.\n\n",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.22.0 Release Update"
+      },
+      {
+        "startDateTime": "2019-06-11T18:00:00+00:00",
+        "endDateTime": "2019-06-11T18:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox data centers. During this time, users with active sessions will be redirected to the login page. The release notes are available in the Community under the Alerts section.\n\n",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.22.0 Release Update"
+      },
+      {
+        "startDateTime": "2019-06-06T00:00:00+00:00",
+        "endDateTime": "2019-06-06T00:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Production data centers. During this time, there will be no impact to users. The release notes are available in the Community under the Alerts section. \n",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.22.0 Release Update"
+      },
+      {
+        "startDateTime": "2019-06-06T00:00:00+00:00",
+        "endDateTime": "2019-06-06T00:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Production data centers. During this time, there will be no impact to users. The release notes are available in the Community under the Alerts section. \n",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.22.0 Release Update"
+      },
+      {
+        "startDateTime": "2019-06-05T18:00:00+00:00",
+        "endDateTime": "2019-06-05T18:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox data centers. \nDuring this time, there will be no impact to users. The release notes are available in the Community under the Alerts section. \n",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.22.0 Release Update"
+      },
+      {
+        "startDateTime": "2019-06-05T18:00:00+00:00",
+        "endDateTime": "2019-06-05T18:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox\nDuring this time, there will be no impact to users. The release notes are available in the Community under the Alerts section. \n",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.22.0 Release Update"
+      },
+      {
+        "startDateTime": "2019-06-01T00:00:00+00:00",
+        "endDateTime": "2019-06-01T04:30:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching "
+      },
+      {
+        "startDateTime": "2019-06-01T00:00:00+00:00",
+        "endDateTime": "2019-06-01T04:30:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching "
+      },
+      {
+        "startDateTime": "2019-05-31T21:00:00+00:00",
+        "endDateTime": "2019-06-01T04:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching "
+      },
+      {
+        "startDateTime": "2019-05-25T00:00:00+00:00",
+        "endDateTime": "2019-05-25T04:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Production data centers for the May 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.22 Release Update - Production"
+      },
+      {
+        "startDateTime": "2019-05-25T00:00:00+00:00",
+        "endDateTime": "2019-05-25T04:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Production data centers for the May 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.22 Release Update - Production"
+      },
+      {
+        "startDateTime": "2019-05-24T18:00:00+00:00",
+        "endDateTime": "2019-05-24T21:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Sandbox data centers for the May 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.22.0 Release Update - Sandbox"
+      },
+      {
+        "startDateTime": "2019-05-24T18:00:00+00:00",
+        "endDateTime": "2019-05-24T21:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Sandbox data centers for the May 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.22.0 Release Update - Sandbox"
+      },
+      {
+        "startDateTime": "2019-05-18T03:00:00+00:00",
+        "endDateTime": "2019-05-18T17:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-05-18T03:00:00+00:00",
+        "endDateTime": "2019-05-18T17:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-05-18T03:00:00+00:00",
+        "endDateTime": "2019-05-18T17:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-05-18T00:00:00+00:00",
+        "endDateTime": "2019-05-18T06:45:00+00:00",
+        "description": "BlackLine will be performing a release in our Production data centers for the May 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.22.0 May Production Release"
+      },
+      {
+        "startDateTime": "2019-05-18T00:00:00+00:00",
+        "endDateTime": "2019-05-18T06:45:00+00:00",
+        "description": "BlackLine will be performing a release in our Production data centers for the May 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.22.0 May Production Release"
+      },
+      {
+        "startDateTime": "2019-05-10T18:00:00+00:00",
+        "endDateTime": "2019-05-10T20:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox data centers for the May 2019 Release. Users with active sessions will be redirected to the login page at the transition of services. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.22.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2019-05-10T18:00:00+00:00",
+        "endDateTime": "2019-05-10T20:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox data centers for the May 2019 Release. Users with active sessions will be redirected to the login page at the transition of services. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.22.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2019-05-04T02:00:00+00:00",
+        "endDateTime": "2019-05-04T05:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching "
+      },
+      {
+        "startDateTime": "2019-05-04T02:00:00+00:00",
+        "endDateTime": "2019-05-04T05:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching "
+      },
+      {
+        "startDateTime": "2019-05-04T00:30:00+00:00",
+        "endDateTime": "2019-05-04T04:30:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Sandbox environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching "
+      },
+      {
+        "startDateTime": "2019-05-03T18:30:00+00:00",
+        "endDateTime": "2019-05-03T23:59:00+00:00",
+        "description": "BlackLine will be performing a release in our Sandbox data centers for the May 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.22.0 May Sandbox Release"
+      },
+      {
+        "startDateTime": "2019-05-03T18:30:00+00:00",
+        "endDateTime": "2019-05-03T23:59:00+00:00",
+        "description": "BlackLine will be performing a release in our Sandbox data centers for the May 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.22.0 May Sandbox Release"
+      },
+      {
+        "startDateTime": "2019-04-20T16:00:00+00:00",
+        "endDateTime": "2019-04-21T00:00:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our US environments. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and up-time our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Kaminario Upgrade"
+      },
+      {
+        "startDateTime": "2019-04-20T16:00:00+00:00",
+        "endDateTime": "2019-04-21T00:00:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our US environments. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and up-time our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Kaminario Upgrade"
+      },
+      {
+        "startDateTime": "2019-04-20T03:00:00+00:00",
+        "endDateTime": "2019-04-20T08:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-04-20T03:00:00+00:00",
+        "endDateTime": "2019-04-20T08:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-04-19T21:00:00+00:00",
+        "endDateTime": "2019-04-20T02:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-04-06T03:00:00+00:00",
+        "endDateTime": "2019-04-06T07:30:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Sandbox WIndows Patching"
+      },
+      {
+        "startDateTime": "2019-04-06T03:00:00+00:00",
+        "endDateTime": "2019-04-06T07:30:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "Sandbox WIndows Patching"
+      },
+      {
+        "startDateTime": "2019-04-05T21:00:00+00:00",
+        "endDateTime": "2019-04-06T01:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Sandbox WIndows Patching"
+      },
+      {
+        "startDateTime": "2019-03-16T02:00:00+00:00",
+        "endDateTime": "2019-03-16T19:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-03-16T02:00:00+00:00",
+        "endDateTime": "2019-03-16T19:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-03-15T21:00:00+00:00",
+        "endDateTime": "2019-03-17T03:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Windows Patching"
+      },
+      {
+        "startDateTime": "2019-03-02T10:30:00+00:00",
+        "endDateTime": "2019-03-02T16:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching"
+      },
+      {
+        "startDateTime": "2019-03-02T04:00:00+00:00",
+        "endDateTime": "2019-03-02T10:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching"
+      },
+      {
+        "startDateTime": "2019-03-02T04:00:00+00:00",
+        "endDateTime": "2019-03-02T10:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching"
+      },
+      {
+        "startDateTime": "2019-03-01T18:00:00+00:00",
+        "endDateTime": "2019-03-01T20:00:00+00:00",
+        "description": "BlackLine will be performing a 7.21.0 release update in our Production environment on March 1, 2019 starting at 10:00 AM PST (6:00 PM UTC). There will be no impact to users while the release update is being completed. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.21.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2019-03-01T18:00:00+00:00",
+        "endDateTime": "2019-03-01T19:30:00+00:00",
+        "description": "BlackLine will be performing a 7.21.0 release update in our Production environment on March 1, 2019 starting at 10:00 AM PST (March 1, 2019 6:00 PM UTC). There will be no impact to users while the release update is being completed. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.21.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2019-03-01T18:00:00+00:00",
+        "endDateTime": "2019-03-01T19:30:00+00:00",
+        "description": "BlackLine will be performing a 7.21.0 release update in our Production environment on March 1, 2019 starting at 10:00 AM PST (March 1, 2019 6:00 PM UTC). There will be no impact to users while the release update is being completed. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.21.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2019-03-01T18:00:00+00:00",
+        "endDateTime": "2019-03-01T19:30:00+00:00",
+        "description": "BlackLine will be performing a 7.21.0 release update in our Production environment on March 1, 2019 starting at 10:00 AM PST (March 1, 2019 6:00 PM UTC). There will be no impact to users while the release update is being completed. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD US3",
+        "incidentType": "Release",
+        "title": "7.21.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2019-03-01T03:00:00+00:00",
+        "endDateTime": "2019-03-01T04:30:00+00:00",
+        "description": "BlackLine will be performing a 7.21.0 release update in our Sandbox environment on February 28, 2019 starting at 7:00 PM PST (March 1, 2019 3:00 AM UTC). There will be no impact to users while the release update is being completed. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.21.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2019-03-01T03:00:00+00:00",
+        "endDateTime": "2019-03-01T04:30:00+00:00",
+        "description": "BlackLine will be performing a 7.21.0 release update in our Sandbox environment on February 28, 2019 starting at 7:00 PM PST (March 1, 2019 3:00 AM UTC). There will be no impact to users while the release update is being completed. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.21.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2019-02-26T15:30:00+00:00",
+        "endDateTime": "2019-02-26T16:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our Production environment for the 7.21 Release. Users with active sessions may be directed to the login page at the transition of services. A release note will be posted in the community.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.21 Production Release Update"
+      },
+      {
+        "startDateTime": "2019-02-26T15:30:00+00:00",
+        "endDateTime": "2019-02-26T16:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our Production environment for the 7.21 Release. Users with active sessions may be directed to the login page at the transition of services. A release note will be posted in the community.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.21 Production Release Update"
+      },
+      {
+        "startDateTime": "2019-02-26T14:30:00+00:00",
+        "endDateTime": "2019-02-26T15:15:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox environment for the 7.21 Release. Users with active sessions may be directed to the login page at the transition of services. A release note will be posted in the community.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.21 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2019-02-26T14:30:00+00:00",
+        "endDateTime": "2019-02-26T15:15:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox environment for the 7.21 Release. Users with active sessions may be directed to the login page at the transition of services. A release note will be posted in the community.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.21 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2019-02-16T01:00:00+00:00",
+        "endDateTime": "2019-02-16T08:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Production data centers for the February 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "February 2019 Production Release"
+      },
+      {
+        "startDateTime": "2019-02-16T01:00:00+00:00",
+        "endDateTime": "2019-02-16T08:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Production data centers for the February 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "February 2019 Production Release"
+      },
+      {
+        "startDateTime": "2019-02-15T19:00:00+00:00",
+        "endDateTime": "2019-02-15T20:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox data centers for the February 2019 Release. There is no impact expected for users during this deployment window. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.21.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2019-02-15T19:00:00+00:00",
+        "endDateTime": "2019-02-15T20:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox data centers for the February 2019 Release. There is no impact expected for users during this deployment window. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.21.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2019-02-02T08:30:00+00:00",
+        "endDateTime": "2019-02-03T00:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching"
+      },
+      {
+        "startDateTime": "2019-02-02T08:30:00+00:00",
+        "endDateTime": "2019-02-03T00:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching"
+      },
+      {
+        "startDateTime": "2019-02-02T08:30:00+00:00",
+        "endDateTime": "2019-02-03T00:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching"
+      },
+      {
+        "startDateTime": "2019-02-01T19:00:00+00:00",
+        "endDateTime": "2019-02-02T03:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Sandbox data centers for the February 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "February 2019 Sandbox Release"
+      },
+      {
+        "startDateTime": "2019-02-01T19:00:00+00:00",
+        "endDateTime": "2019-02-02T03:00:00+00:00",
+        "description": "BlackLine will be performing a release in our Sandbox data centers for the February 2019 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services. Users may experience intermittent service interruptions while the applications are being updated. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "February 2019 Sandbox Release"
+      },
+      {
+        "startDateTime": "2019-01-31T07:00:00+00:00",
+        "endDateTime": "2019-01-31T10:00:00+00:00",
+        "description": "BlackLine U is scheduled to undergo a routine maintenance on January 31, 2019 from 7:00 am ? 10:00 am UTC. Users who are logged in to BlackLine U at the start of maintenance will be logged out automatically. Any users who are logged out can log back in immediately through their production instance. BlackLine U will be available at any time throughout the maintenance cycle.\nWe apologize for any inconvenience this may cause and appreciate your patience. Please contact blu@blackline.com with any questions. ",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "BlackLine U Routine Maintenance "
+      },
+      {
+        "startDateTime": "2019-01-31T07:00:00+00:00",
+        "endDateTime": "2019-01-31T10:00:00+00:00",
+        "description": "BlackLine U is scheduled to undergo a routine maintenance on January 31, 2019 from 7:00 am ? 10:00 am UTC. Users who are logged in to BlackLine U at the start of maintenance will be logged out automatically. Any users who are logged out can log back in immediately through their production instance. BlackLine U will be available at any time throughout the maintenance cycle.\nWe apologize for any inconvenience this may cause and appreciate your patience. Please contact blu@blackline.com with any questions. ",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "BlackLine U Routine Maintenance "
+      },
+      {
+        "startDateTime": "2019-01-30T23:30:00+00:00",
+        "endDateTime": "2019-01-31T00:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Production environments on January 30th starting at 2:30 PM PST (10:30 PM UTC). User with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the Community.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.20.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2019-01-30T23:30:00+00:00",
+        "endDateTime": "2019-01-31T00:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Production environments on January 30th starting at 2:30 PM PST (10:30 PM UTC). User with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the Community.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.20.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2019-01-30T21:00:00+00:00",
+        "endDateTime": "2019-01-30T22:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox  environments on January 30th starting at 1:00 PM PST (9:00 PM UTC). User with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the Community.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.20.0 Release Update"
+      },
+      {
+        "startDateTime": "2019-01-30T21:00:00+00:00",
+        "endDateTime": "2019-01-30T22:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox  environments on January 30th starting at 1:00 PM PST (9:00 PM UTC). User with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the Community.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.20.0 Release Update"
+      },
+      {
+        "startDateTime": "2019-01-26T02:00:00+00:00",
+        "endDateTime": "2019-01-27T07:30:00+00:00",
+        "description": "As part of our continued commitment to ensuring our infrastructure reliability and redundancy, we will be performing infrastructure maintenance in our Production and Sandbox environments on January 25 at 6 pm PT. During this time, there may be intermittent service interruptions.\n\nWe apologize for this urgent maintenance, but are working to restore normal service as quickly as possible. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. We appreciate your patience during this time. Please visit Trust.blackline.com for more information on the status of this maintenance.\n",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Infrastructure Change - Storage "
+      },
+      {
+        "startDateTime": "2019-01-26T02:00:00+00:00",
+        "endDateTime": "2019-01-27T07:30:00+00:00",
+        "description": "As part of our continued commitment to ensuring our infrastructure reliability and redundancy, we will be performing infrastructure maintenance in our Production and Sandbox environments on January 25 at 6 pm PT. During this time, there may be intermittent service interruptions.\n\nWe apologize for this urgent maintenance, but are working to restore normal service as quickly as possible. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. We appreciate your patience during this time. Please visit Trust.blackline.com for more information on the status of this maintenance.\n",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Infrastructure Change - Storage "
+      },
+      {
+        "startDateTime": "2019-01-19T01:00:00+00:00",
+        "endDateTime": "2019-01-19T02:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Production environments on January 18th starting at 5:00 PM (1:00 AM UTC). User with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the Community.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.20.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2019-01-19T01:00:00+00:00",
+        "endDateTime": "2019-01-19T02:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Production environments on January 18th starting at 5:00 PM (1:00 AM UTC). User with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the Community.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.20.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2019-01-16T02:00:00+00:00",
+        "endDateTime": "2019-01-16T04:00:00+00:00",
+        "description": "We will be performing routine Windows maintenance on Sandbox environments and there is no expected downtime during the maintenance window.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Windows Maintenance"
+      },
+      {
+        "startDateTime": "2019-01-15T19:30:00+00:00",
+        "endDateTime": "2019-01-15T23:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox environments on January 15th starting at 11:30 AM (7:30 PM UTC). User with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the Community.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.20.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2019-01-15T19:30:00+00:00",
+        "endDateTime": "2019-01-15T23:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our Sandbox environments on January 15th starting at 11:30 AM (7:30 PM UTC). User with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the Community.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.20.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2019-01-13T05:00:00+00:00",
+        "endDateTime": "2019-01-13T06:00:00+00:00",
+        "description": "BlackLine will be performing an emergency maintenance on January 12, 2019 from 9:00 pm pst to 10:00 pm pst. We will be re-balancing one of our database clusters and a small number of customers might experience degraded performance during the maintenance window. Please contact support with any questions.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Re-balance of database cluster"
+      },
+      {
+        "startDateTime": "2019-01-12T08:30:00+00:00",
+        "endDateTime": "2019-01-12T17:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching"
+      },
+      {
+        "startDateTime": "2019-01-12T08:30:00+00:00",
+        "endDateTime": "2019-01-12T17:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching"
+      },
+      {
+        "startDateTime": "2019-01-12T08:30:00+00:00",
+        "endDateTime": "2019-01-12T12:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Windows Patching"
+      },
+      {
+        "startDateTime": "2018-12-29T01:00:00+00:00",
+        "endDateTime": "2018-12-29T02:30:00+00:00",
+        "description": "BlackLine will be performing a 7.20.0 release update in our Production environments on Friday, December 28th starting at 5PM PST (December 29th 1:00 AM UTC). Users with active sessions will be redirected to the login page at the transition of services. Release notes may be viewed in the Community under the Alerts section and Product Documentation/Release Notes. ",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.20.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2018-12-29T01:00:00+00:00",
+        "endDateTime": "2018-12-29T02:30:00+00:00",
+        "description": "BlackLine will be performing a 7.20.0 release update in our Production environments on Friday, December 28th starting at 5PM PST (December 29th 1:00 AM UTC). Users with active sessions will be redirected to the login page at the transition of services. Release notes may be viewed in the Community under the Alerts section and Product Documentation/Release Notes. ",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.20.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2018-12-26T22:00:00+00:00",
+        "endDateTime": "2018-12-26T23:30:00+00:00",
+        "description": "BlackLine will be performing a 7.20.0 release update in our Sandbox environments on Wednesday, December 26th starting at 2PM PST (10:00 PM UTC). Users with active sessions will be redirected to the login page at the transition of services. Release notes may be viewed in the Community under the Alerts section and Product Documentation/Release Notes. \n",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.20.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-12-26T22:00:00+00:00",
+        "endDateTime": "2018-12-26T23:30:00+00:00",
+        "description": "BlackLine will be performing a 7.20.0 release update in our Sandbox environments on Wednesday, December 26th starting at 2PM PST (10:00 PM UTC). Users with active sessions will be redirected to the login page at the transition of services. Release notes may be viewed in the Community under the Alerts section and Product Documentation/Release Notes. \n",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.20.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-12-15T17:00:00+00:00",
+        "endDateTime": "2018-12-16T09:30:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-12-15T17:00:00+00:00",
+        "endDateTime": "2018-12-16T09:30:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-12-15T17:00:00+00:00",
+        "endDateTime": "2018-12-16T09:30:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-12-15T01:00:00+00:00",
+        "endDateTime": "2018-12-15T07:00:00+00:00",
+        "description": "BlackLine will be performing a release in our US and EU production data centers for the 7.20.0 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services.  In order to provide the highest quality product, and given the wide-ranging impact of the November release, we have decided to postpone the release to Production. The release was originally scheduled for November 16 (November 17 UTC), but will now be released on December 14 (December 15 UTC).",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.20 Production Release - Rescheduled from November 16th"
+      },
+      {
+        "startDateTime": "2018-12-15T01:00:00+00:00",
+        "endDateTime": "2018-12-15T07:00:00+00:00",
+        "description": "BlackLine will be performing a release in our US and EU production data centers for the 7.20.0 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services.  In order to provide the highest quality product, and given the wide-ranging impact of the November release, we have decided to postpone the release to Production. The release was originally scheduled for November 16 (November 17 UTC), but will now be released on December 14 (December 15 UTC).",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.20 Production Release - Rescheduled from November 16th"
+      },
+      {
+        "startDateTime": "2018-12-13T07:30:00+00:00",
+        "endDateTime": "2018-12-13T11:00:00+00:00",
+        "description": "As part of our continued commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance "
+      },
+      {
+        "startDateTime": "2018-12-10T07:45:00+00:00",
+        "endDateTime": "2018-12-10T08:35:00+00:00",
+        "description": "BlackLine performed a 7.20.0 release update in our Sandbox environments on Sunday, December 9th starting at 11:45 PM PST (7:45 AM UTC). Users with active sessions will be redirected to the login page at the transition of services. Details regarding this  Release may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.20.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-12-10T07:45:00+00:00",
+        "endDateTime": "2018-12-10T08:35:00+00:00",
+        "description": "BlackLine performed a 7.20.0 release update in our Sandbox environments on Sunday, December 9th starting at 11:45 PM PST (7:45 AM UTC). Users with active sessions will be redirected to the login page at the transition of services. Details regarding this  Release may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.20.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-12-07T19:00:00+00:00",
+        "endDateTime": "2018-12-08T01:00:00+00:00",
+        "description": "BlackLine will be performing a 7.20.0 release update in our Sandbox environments on Friday, December 7th starting at 11AM PST (7:00 PM UTC). Jobs submitted at the start of the release will be held in queue until the deployment has been completed. Users with active sessions will be redirected to the login page at the transition of services. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.20.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-12-07T19:00:00+00:00",
+        "endDateTime": "2018-12-08T01:00:00+00:00",
+        "description": "BlackLine will be performing a 7.20.0 release update in our Sandbox environments on Friday, December 7th starting at 11AM PST (7:00 PM UTC). Jobs submitted at the start of the release will be held in queue until the deployment has been completed. Users with active sessions will be redirected to the login page at the transition of services. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.20.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-12-01T04:00:00+00:00",
+        "endDateTime": "2018-12-02T21:00:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Maintenance "
+      },
+      {
+        "startDateTime": "2018-12-01T04:00:00+00:00",
+        "endDateTime": "2018-12-02T21:00:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "Maintenance "
+      },
+      {
+        "startDateTime": "2018-12-01T04:00:00+00:00",
+        "endDateTime": "2018-12-02T14:00:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Maintenance "
+      },
+      {
+        "startDateTime": "2018-12-01T04:00:00+00:00",
+        "endDateTime": "2018-12-02T14:00:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing maintenance in our Production environment. During this maintenance users may experience intermittent connectivity interruptions with existing sessions. The ability to attach and view documents may also be affected. All jobs will be held in queue until the maintenance has been completed. Maintaining uptime and availability is of the utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Maintenance "
+      },
+      {
+        "startDateTime": "2018-11-20T19:30:00+00:00",
+        "endDateTime": "2018-11-20T22:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our sandbox environment for the 7.20.0 release. Users with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the community.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.20.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-11-20T19:30:00+00:00",
+        "endDateTime": "2018-11-20T22:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our sandbox environment for the 7.20.0 release. Users with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the community.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.20.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-11-18T02:00:00+00:00",
+        "endDateTime": "2018-11-18T09:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "US2 Production Maintenance"
+      },
+      {
+        "startDateTime": "2018-11-18T02:00:00+00:00",
+        "endDateTime": "2018-11-18T09:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "US3 Production Maintenance"
+      },
+      {
+        "startDateTime": "2018-11-17T21:00:00+00:00",
+        "endDateTime": "2018-11-19T02:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "EU Production Maintenance"
+      },
+      {
+        "startDateTime": "2018-11-13T01:00:00+00:00",
+        "endDateTime": "2018-11-13T03:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our sandbox environment for the 7.20.0 release. Users with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the community.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "SBEU and SBUS2 Sandbox Release Update - 7.20.0.1001"
+      },
+      {
+        "startDateTime": "2018-11-13T01:00:00+00:00",
+        "endDateTime": "2018-11-13T03:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our sandbox environment for the 7.20.0 release. Users with active sessions will be redirected to the login page at the transition of services. Release notes will be posted in the community.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "SBEU and SBUS2 Sandbox Release Update - 7.20.0.1001"
+      },
+      {
+        "startDateTime": "2018-11-04T01:00:00+00:00",
+        "endDateTime": "2018-11-04T05:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "US2 Sandbox Maintenance"
+      },
+      {
+        "startDateTime": "2018-11-03T20:00:00+00:00",
+        "endDateTime": "2018-11-04T05:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "EU Sandbox Maintenance"
+      },
+      {
+        "startDateTime": "2018-11-02T18:00:00+00:00",
+        "endDateTime": "2018-11-03T01:30:00+00:00",
+        "description": "BlackLine will be performing a release in our US and EU sandbox data centers for the 7.20.0 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "November Sandbox Release"
+      },
+      {
+        "startDateTime": "2018-11-02T18:00:00+00:00",
+        "endDateTime": "2018-11-03T01:30:00+00:00",
+        "description": "BlackLine will be performing a release in our US and EU sandbox data centers for the 7.20.0 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "November Sandbox Release"
+      },
+      {
+        "startDateTime": "2018-10-21T01:30:00+00:00",
+        "endDateTime": "2018-10-21T07:00:00+00:00",
+        "description": "Blackline will be performing FTP maintenance in our US production environment on Saturday October 20, 2018 starting at 6:30PM Pacific time.  During this maintenance, users will be unable to upload files via FTP",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "FTP Maintenance US Production"
+      },
+      {
+        "startDateTime": "2018-10-21T01:30:00+00:00",
+        "endDateTime": "2018-10-21T07:00:00+00:00",
+        "description": "BlackLine will enforce universal use of SFTP (Secure File Transfer Protocol) on October 20, 2018. Other file transfer encryption solutions will be disabled at that time. This improvement to BlackLine's data ingestion process is part of BlackLine's continued effort to provide increased protection to our customers and their data. Please note: PGP use is unchanged and will still be available to customers as always. Please contact BlackLine Support with questions at any time during this transition.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "FTP Maintenance US Production"
+      },
+      {
+        "startDateTime": "2018-10-21T01:00:00+00:00",
+        "endDateTime": "2018-10-21T13:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-10-20T20:00:00+00:00",
+        "endDateTime": "2018-10-21T08:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-10-20T20:00:00+00:00",
+        "endDateTime": "2018-10-21T08:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-10-20T20:00:00+00:00",
+        "endDateTime": "2018-10-21T07:00:00+00:00",
+        "description": "BlackLine will enforce universal use of SFTP (Secure File Transfer Protocol) on October 20, 2018. Other file transfer encryption solutions will be disabled at that time. This improvement to BlackLine's data ingestion process is part of BlackLine's continued effort to provide increased protection to our customers and their data. Please note: PGP use is unchanged and will still be available to customers as always. Please contact BlackLine Support with questions at any time during this transition.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "FTP Maintenance EU Production"
+      },
+      {
+        "startDateTime": "2018-10-20T15:00:00+00:00",
+        "endDateTime": "2018-10-21T07:00:00+00:00",
+        "description": "As part of our continued commitment to ensuring our infrastructure reliability and redundancy, we will be performing infrastructure maintenance in our US2 Sandbox and Production environments on October 20th starting at 8:00 AM (3:00 PM UTC). During this time, there will be no impact to users while the maintenance is being completed. Maintaining uptime and availability is of utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Please check trust.blackline.com for updates.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "US2 Sandbox and Production Maintenance"
+      },
+      {
+        "startDateTime": "2018-10-20T15:00:00+00:00",
+        "endDateTime": "2018-10-21T07:00:00+00:00",
+        "description": "As part of our continued commitment to ensuring our infrastructure reliability and redundancy, we will be performing infrastructure maintenance in our US2 Sandbox and Production environments on October 20th starting at 8:00 AM (3:00 PM UTC). During this time, there will be no impact to users while the maintenance is being completed. Maintaining uptime and availability is of utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Please check trust.blackline.com for updates.\n\nBetween the hours of 8am and 11pm we will be upgrading the software on our network infrastructure devices. No impact is expected due to all devices being redundant, however there may be the potential for intermittent network connectivity at times.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "US2 Sandbox and Production Maintenance"
+      },
+      {
+        "startDateTime": "2018-10-20T01:00:00+00:00",
+        "endDateTime": "2018-10-20T06:00:00+00:00",
+        "description": "BlackLine will be performing a routine maintenance on October 19th. We are expecting little to no disruption during this window. The maintenance should last approximately 30 hours. We will start at 6 PM 10/19/2018 PDT and will be completed by 11:59 PM 10/20/2018 PDT.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "US Infrastructure Maintenance "
+      },
+      {
+        "startDateTime": "2018-10-20T01:00:00+00:00",
+        "endDateTime": "2018-10-20T06:00:00+00:00",
+        "description": "BlackLine will be performing a routine maintenance on October 19th. We are expecting little to no disruption during this window. The maintenance should last approximately 30 hours. We will start at 6 PM 10/19/2018 PDT and will be completed by 11:59 PM 10/20/2018 PDT.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "US Infrastructure Maintenance "
+      },
+      {
+        "startDateTime": "2018-10-19T20:30:00+00:00",
+        "endDateTime": "2018-10-20T01:30:00+00:00",
+        "description": "As part of our continued commitment to ensuring our infrastructure reliability and redundancy, we will be performing infrastructure maintenance in our EU Sandbox and Production environments on October 19th starting at 1:30 PM (8:30 PM UTC). During this time, there will be no impact to users while the maintenance is being completed.  Maintaining uptime and availability is of utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Please check trust.blackline.com for updates.\n\nBlackLine will be performing a routine maintenance on October 19th. We are expecting little to no disruption during this window. The maintenance should last approximately 3 hours. We will start at 10:30 PM 10/19/2018 (GMT+2) and will be completed by 01:30 AM 10/20/2018 (GMT+2).",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "EU Sandbox and Production Infrastructure Maintenance"
+      },
+      {
+        "startDateTime": "2018-10-19T20:30:00+00:00",
+        "endDateTime": "2018-10-20T01:30:00+00:00",
+        "description": "As part of our continued commitment to ensuring our infrastructure reliability and redundancy, we will be performing infrastructure maintenance in our EU Sandbox and Production environments on October 19th starting at 1:30 PM (8:30 PM UTC). During this time, there will be no impact to users while the maintenance is being completed.  Maintaining uptime and availability is of utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Please check trust.blackline.com for updates.\n\nBlackLine will be performing a routine maintenance on October 19th. We are expecting little to no disruption during this window. The maintenance should last approximately 3 hours. We will start at 10:30 PM 10/19/2018 (GMT+2) and will be completed by 01:30 AM 10/20/2018 (GMT+2).",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "EU Sandbox and Production Infrastructure Maintenance"
+      },
+      {
+        "startDateTime": "2018-10-07T01:00:00+00:00",
+        "endDateTime": "2018-10-07T05:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-10-06T20:00:00+00:00",
+        "endDateTime": "2018-10-07T04:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-10-06T20:00:00+00:00",
+        "endDateTime": "2018-10-07T04:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-09-23T01:00:00+00:00",
+        "endDateTime": "2018-09-23T11:00:00+00:00",
+        "description": "BlackLine will be performing Windows patching in our Production US2 and US3 environments on Saturday, September 22nd at 6:00 PM PDT (September 23rd, 1:00 AM UTC). During this time, users may experience intermittent service interruptions and may also experience some overall slowness in performance.  We strive to providing the most robust, reliable systems to our customers and appreciate your patience during this maintenance window. Please check trust.blackline.com for updates on the status of this scheduled maintenance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Windows Patching Production US2 and US3"
+      },
+      {
+        "startDateTime": "2018-09-23T01:00:00+00:00",
+        "endDateTime": "2018-09-23T11:00:00+00:00",
+        "description": "BlackLine will be performing Windows patching in our Production US2 and US3 environments on Saturday, September 22nd at 6:00 PM PDT (September 23rd, 1:00 AM UTC). During this time, users may experience intermittent service interruptions and may also experience some overall slowness in performance.  We strive to providing the most robust, reliable systems to our customers and appreciate your patience during this maintenance window. Please check trust.blackline.com for updates on the status of this scheduled maintenance.",
+        "environmentName": "PROD US3",
+        "incidentType": "Maintenance",
+        "title": "Windows Patching Production US2 and US3"
+      },
+      {
+        "startDateTime": "2018-09-22T20:00:00+00:00",
+        "endDateTime": "2018-09-23T07:00:00+00:00",
+        "description": "BlackLine will be performing Windows patching in our Production EU environment on Saturday, September 22nd at 1:00 PM PDT (8:00 PM UTC). During this time, users may experience intermittent service interruptions and may also experience some overall slowness in performance.  We strive to providing the most robust, reliable systems to our customers and appreciate your patience during this maintenance window. Please check trust.blackline.com for updates on the status of this scheduled maintenance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Windows Patching Production AMS"
+      },
+      {
+        "startDateTime": "2018-09-22T00:00:00+00:00",
+        "endDateTime": "2018-09-22T06:59:00+00:00",
+        "description": "BlackLine will be performing a release update in our US and EU production data centers for the 7.19 Release. Users with active sessions will be redirected to the login page at the transition of services.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.19 Production Release Update"
+      },
+      {
+        "startDateTime": "2018-09-22T00:00:00+00:00",
+        "endDateTime": "2018-09-22T06:59:00+00:00",
+        "description": "BlackLine will be performing a release update in our US and EU production data centers for the 7.19 Release. Users with active sessions will be redirected to the login page at the transition of services.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.19 Production Release Update"
+      },
+      {
+        "startDateTime": "2018-09-14T21:00:00+00:00",
+        "endDateTime": "2018-09-15T00:00:00+00:00",
+        "description": "BlackLine will be performing a 7.19 release update in our production environments on September 14, 2018 starting at 2:00 PM PDT (9:00 PM UTC). There is no expected impact to users during this release update. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.19 Production Release Update"
+      },
+      {
+        "startDateTime": "2018-09-14T21:00:00+00:00",
+        "endDateTime": "2018-09-15T00:00:00+00:00",
+        "description": "BlackLine will be performing a 7.19 release update in our production environments on September 14, 2018 starting at 2:00 PM PDT (9:00 PM UTC). There is no expected impact to users during this release update. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.19 Production Release Update"
+      },
+      {
+        "startDateTime": "2018-09-13T21:00:00+00:00",
+        "endDateTime": "2018-09-13T23:00:00+00:00",
+        "description": "BlackLine will be performing a 7.19 release update in our sandbox environments on September 13, 2018 starting at 2:00 PM PDT (9:00 PM UTC). There is no expected impact to users during this release update. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.19 Release Update Sandbox"
+      },
+      {
+        "startDateTime": "2018-09-13T21:00:00+00:00",
+        "endDateTime": "2018-09-13T23:00:00+00:00",
+        "description": "BlackLine will be performing a 7.19 release update in our sandbox environments on September 13, 2018 starting at 2:00 PM PDT (9:00 PM UTC). There is no expected impact to users during this release update. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.19 Release Update Sandbox"
+      },
+      {
+        "startDateTime": "2018-09-09T01:00:00+00:00",
+        "endDateTime": "2018-09-09T06:00:00+00:00",
+        "description": "BlackLine will be performing Windows patching in our Sandbox US2 environment on Saturday, September 8th 6:00 PM PDT (September 9th, 1:00 AM UTC). During this time, users may experience intermittent service interruptions and may also experience some overall slowness in performance.  We strive to providing the most robust, reliable systems to our customers and appreciate your patience during this maintenance window. Please check trust.blackline.com for updates on the status of this scheduled maintenance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Windows Patching - Sandbox US2"
+      },
+      {
+        "startDateTime": "2018-09-09T01:00:00+00:00",
+        "endDateTime": "2018-09-09T06:00:00+00:00",
+        "description": "BlackLine will be performing Windows patching in our Sandbox US3 environment on Saturday, September 8th 6:00 PM PDT (September 9th, 1:00 AM UTC). During this time, users may experience intermittent service interruptions and may also experience some overall slowness in performance.  We strive to providing the most robust, reliable systems to our customers and appreciate your patience during this maintenance window. Please check trust.blackline.com for updates on the status of this scheduled maintenance.",
+        "environmentName": "SB US3",
+        "incidentType": "Maintenance",
+        "title": "Windows Patching - Sandbox US3"
+      },
+      {
+        "startDateTime": "2018-09-08T20:00:00+00:00",
+        "endDateTime": "2018-09-09T07:00:00+00:00",
+        "description": "BlackLine will be performing Windows patching in our Sandbox AMS EU1 environment on Saturday, September 8th 1:00 PM PDT (8:00 PM UTC). During this time, users may experience intermittent service interruptions and may also experience some overall slowness in performance. We strive to providing the most robust, reliable systems to our customers and appreciate your patience during this maintenance window. Please check trust.blackline.com for updates on the status of this scheduled maintenance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Windows Patching Sandbox AMS"
+      },
+      {
+        "startDateTime": "2018-09-07T18:00:00+00:00",
+        "endDateTime": "2018-09-07T22:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our US and EU sandbox data centers for the 7.19 Release.  Users with active sessions will be redirected to the login page at the transition of services.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.19 Release Update Sandbox"
+      },
+      {
+        "startDateTime": "2018-09-07T18:00:00+00:00",
+        "endDateTime": "2018-09-07T22:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our US and EU sandbox data centers for the 7.19 Release. Users with active sessions will be redirected to the login page at the transition of services.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.19 Release Update Sandbox"
+      },
+      {
+        "startDateTime": "2018-08-31T20:30:00+00:00",
+        "endDateTime": "2018-08-31T23:30:00+00:00",
+        "description": "As part of our continued commitment to ensuring our infrastructure reliability and redundancy, we will be performing infrastructure maintenance in our Sandbox and Production EU data centers on Friday, August 31, 2018, starting at 1:30 PM PDT (8:30 PM UTC). During this time, there will be no impact to users while the maintenance is being completed. Maintaining uptime and availability is of utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Please check trust.blackline.com for updates.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "EU Sandbox and Production Infrastructure Maintenance"
+      },
+      {
+        "startDateTime": "2018-08-31T20:30:00+00:00",
+        "endDateTime": "2018-08-31T23:30:00+00:00",
+        "description": "As part of our continued commitment to ensuring our infrastructure reliability and redundancy, we will be performing infrastructure maintenance in our Sandbox and Production EU data centers on Friday, August 31, 2018, starting at 1:30 PM PDT (8:30 PM UTC). During this time, there will be no impact to users while the maintenance is being completed. Maintaining uptime and availability is of utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Please check trust.blackline.com for updates.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "EU Sandbox and Production Infrastructure Maintenance"
+      },
+      {
+        "startDateTime": "2018-08-26T01:00:00+00:00",
+        "endDateTime": "2018-08-26T07:00:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing infrastructure maintenance in our Sandbox and Production environments in US2 Las Vegas Data Center on August 25, 2018 starting at 6:00 PM PDT (August 26, 2018 1:00 AM UTC). \n\nDuring this upgrade users may experience intermittent connectivity interruptions with existing sessions and there may be intermittent impact attaching and viewing documents. Additionally, FTP will be unavailable for the duration of the upgrade, users should attempt uploads to FTP after the maintenance window has been completed. All jobs will be held in queue until the upgrade has completed. Maintaining uptime and availability is of utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Please check trust.blackline.com for updates. [STATUS:SCHEDULED]",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "US2 Sandbox and Production Maintenance"
+      },
+      {
+        "startDateTime": "2018-08-26T01:00:00+00:00",
+        "endDateTime": "2018-08-26T07:00:00+00:00",
+        "description": "As part of our continual commitment to ensure our infrastructure reliability and redundancy, we will be performing infrastructure maintenance in our Sandbox and Production environments in US2 Las Vegas Data Center on August 25, 2018 starting at 6:00 PM PDT (August 26, 2018 1:00 AM UTC). \n\nDuring this upgrade users may experience intermittent connectivity interruptions with existing sessions and there may be intermittent impact attaching and viewing documents. Additionally, FTP will be unavailable for the duration of the upgrade, users should attempt uploads to FTP after the maintenance window has been completed. All jobs will be held in queue until the upgrade has completed. Maintaining uptime and availability is of utmost importance to BlackLine and we strive to provide as much notice as possible. From time to time it may be necessary to perform urgent maintenance to continue to provide the availability and uptime our customers expect. We appreciate your patience and understanding during this maintenance. Please check trust.blackline.com for updates. [STATUS:SCHEDULED]",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "US2 Sandbox and Production Maintenance"
+      },
+      {
+        "startDateTime": "2018-08-23T21:00:00+00:00",
+        "endDateTime": "2018-08-23T22:00:00+00:00",
+        "description": "BlackLine will be performing a 7.19.0 release update in our Production environment on August 23, 2018 at 2:00 PM PDT (9:00 PM UTC). There will be no interruption to users during this release update. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.19.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2018-08-23T21:00:00+00:00",
+        "endDateTime": "2018-08-23T22:00:00+00:00",
+        "description": "BlackLine will be performing a 7.19.0 release update in our Production environment on August 23, 2018 at 2:00 PM PDT (9:00 PM UTC). There will be no interruption to users during this release update. Release notes may be viewed in the Community under the Alerts section.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.19.0 Production Release Update"
+      },
+      {
+        "startDateTime": "2018-08-22T21:00:00+00:00",
+        "endDateTime": "2018-08-22T22:00:00+00:00",
+        "description": "BlackLine will be performing a 7.19.0 release update in our Sandbox environment on August 22, 2018 at 2:00 PM PDT (9:00 PM UTC). There will be no interruption to users during this release update. Release notes may be viewed in the Community under the Alerts section. \n",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.19.0 Release Update"
+      },
+      {
+        "startDateTime": "2018-08-22T21:00:00+00:00",
+        "endDateTime": "2018-08-22T22:00:00+00:00",
+        "description": "BlackLine will be performing a 7.19.0 release update in our Sandbox environment on August 22, 2018 at 2:00 PM PDT (9:00 PM UTC). There will be no interruption to users during this release update. Release notes may be viewed in the Community under the Alerts section. \n",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.19.0 Release Update"
+      },
+      {
+        "startDateTime": "2018-08-19T01:00:00+00:00",
+        "endDateTime": "2018-08-19T06:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-08-18T20:00:00+00:00",
+        "endDateTime": "2018-08-19T00:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-08-18T15:00:00+00:00",
+        "endDateTime": "2018-08-18T19:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Infrastructure Change - Storage Cluster"
+      },
+      {
+        "startDateTime": "2018-08-18T00:00:00+00:00",
+        "endDateTime": "2018-08-18T06:30:00+00:00",
+        "description": "BlackLine will be performing a release in our US and EU production data centers for the 7.19.0 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "August Production Release"
+      },
+      {
+        "startDateTime": "2018-08-18T00:00:00+00:00",
+        "endDateTime": "2018-08-18T06:30:00+00:00",
+        "description": "BlackLine will be performing a release in our US and EU production data centers for the 7.19.0 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "August Production Release"
+      },
+      {
+        "startDateTime": "2018-08-16T17:00:00+00:00",
+        "endDateTime": "2018-08-16T22:00:00+00:00",
+        "description": "BlackLine will be performing a 7.19.0 release update in our Sandbox environments on August 16, 2018 starting at 10:00 AM PDT (5:00 PM UTC). Users with active sessions will be redirected to the login page at the transition of services. Release notes for this release may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.19.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-08-16T17:00:00+00:00",
+        "endDateTime": "2018-08-16T22:00:00+00:00",
+        "description": "BlackLine will be performing a 7.19.0 release update in our Sandbox environments on August 16, 2018 starting at 10:00 AM PDT (5:00 PM UTC). Users with active sessions will be redirected to the login page at the transition of services. Release notes for this release may be viewed in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.19.0 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-08-05T01:00:00+00:00",
+        "endDateTime": "2018-08-05T08:30:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-08-04T20:00:00+00:00",
+        "endDateTime": "2018-08-05T08:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-08-03T18:00:00+00:00",
+        "endDateTime": "2018-08-04T04:30:00+00:00",
+        "description": "BlackLine will be performing a release in our US and EU sandbox data centers for the 7.19.0 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "August Sandbox Release"
+      },
+      {
+        "startDateTime": "2018-08-03T18:00:00+00:00",
+        "endDateTime": "2018-08-04T04:30:00+00:00",
+        "description": "BlackLine will be performing a release in our US and EU sandbox data centers for the 7.19.0 Release. Jobs submitted at the start of the release window will be held in queue until the release has completed. Users with active sessions will be redirected to the login page at the transition of services.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "August Sandbox Release"
+      },
+      {
+        "startDateTime": "2018-07-25T06:59:00+00:00",
+        "endDateTime": "2018-07-25T08:59:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Balancing SQL cluster"
+      },
+      {
+        "startDateTime": "2018-07-22T01:30:00+00:00",
+        "endDateTime": "2018-07-22T07:30:00+00:00",
+        "description": "BlackLine will be performing FTP maintenance in our US production environment on Saturday, July 21, 2018 starting at 6:30 PM PDT. During this maintenance, users will be unable to upload files via FTP. ",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "FTP Maintenance US Production"
+      },
+      {
+        "startDateTime": "2018-07-22T00:00:00+00:00",
+        "endDateTime": "2018-07-22T02:00:00+00:00",
+        "description": "US2 Production Infrastructure Maintenance - As part of our continual commitment to ensure our network reliability and redundancy, we will be performing infrastructure maintenance on a network component in our US2 Production environment on Saturday, July 21, 2018 - 5:00 PM - 7:00 PM PDT (July 22, 2018 12:00 AM - 2:00 AM UTC).  While unlikely,  there is a possibility of connectivity loss during this time. Following this maintenance, our routine Windows maintenance will commence. ",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "US2 Production Infrastructure Maintenance"
+      },
+      {
+        "startDateTime": "2018-07-21T20:00:00+00:00",
+        "endDateTime": "2018-07-22T08:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-07-21T13:00:00+00:00",
+        "endDateTime": "2018-07-22T08:10:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "PROD US2",
+        "incidentType": "Maintenance",
+        "title": "Production Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-07-20T22:00:00+00:00",
+        "endDateTime": "2018-07-20T23:00:00+00:00",
+        "description": "BlackLine will be performing infrastructure maintenance in our US2 Sandbox environment on Friday, July 20th 3:00 PM - 4:00 PM PT (10:00 PM - 11:00 PM UTC). During this time, application servers will be rebooted and users with active sessions will be redirected to the login page. Jobs submitted at the start of the maintenance window will be held in queue until the the maintenance window has been completed.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "SBUS2 Infrastructure Maintenance"
+      },
+      {
+        "startDateTime": "2018-07-14T01:00:00+00:00",
+        "endDateTime": "2018-07-14T05:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our production environments on Friday, July 13, 2018 6:00 PM PDT to 10:00 PM PDT (July 14, 2018 1:00 AM UTC to 5:00 AM UTC). Users with active sessions will be redirected to the login page at the transition of services. Release notes for this update can be found in the Community under the Alerts section.",
+        "environmentName": "PROD EU1",
+        "incidentType": "Release",
+        "title": "7.18.1 Production Release Update"
+      },
+      {
+        "startDateTime": "2018-07-14T01:00:00+00:00",
+        "endDateTime": "2018-07-14T05:00:00+00:00",
+        "description": "BlackLine will be performing a release update in our production environments on Friday, July 13, 2018 6:00 PM PDT to 10:00 PM PDT (July 14, 2018 1:00 AM UTC to 5:00 AM UTC). Users with active sessions will be redirected to the login page at the transition of services. Release notes for this update can be found in the Community under the Alerts section.",
+        "environmentName": "PROD US2",
+        "incidentType": "Release",
+        "title": "7.18.1 Production Release Update"
+      },
+      {
+        "startDateTime": "2018-07-11T18:30:00+00:00",
+        "endDateTime": "2018-07-11T22:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our sandbox environments on Wednesday, July 11, 2018 11:30 AM PDT to 3:30 PM PDT (July 11, 2018 6:30 PM UTC to 10:30 PM UTC). Users with active sessions will be redirected to the login page at the transition of services. Release notes for this update can be found in the Community under the Alerts section.",
+        "environmentName": "SB EU1",
+        "incidentType": "Release",
+        "title": "7.18.1 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-07-11T18:30:00+00:00",
+        "endDateTime": "2018-07-11T22:30:00+00:00",
+        "description": "BlackLine will be performing a release update in our sandbox environments on Wednesday, July 11, 2018 11:30 AM PDT to 3:30 PM PDT (July 11, 2018 6:30 PM UTC to 10:30 PM UTC). Users with active sessions will be redirected to the login page at the transition of services. Release notes for this update can be found in the Community under the Alerts section.",
+        "environmentName": "SB US2",
+        "incidentType": "Release",
+        "title": "7.18.1 Sandbox Release Update"
+      },
+      {
+        "startDateTime": "2018-07-08T01:00:00+00:00",
+        "endDateTime": "2018-07-08T12:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "SB US2",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Maintenance Windows Patching"
+      },
+      {
+        "startDateTime": "2018-07-07T20:00:00+00:00",
+        "endDateTime": "2018-07-08T08:00:00+00:00",
+        "description": "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+        "environmentName": "SB EU1",
+        "incidentType": "Maintenance",
+        "title": "Sandbox Maintenance Windows Patching"
+      }
+    ]
+  }

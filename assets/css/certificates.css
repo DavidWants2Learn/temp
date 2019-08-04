@@ -1,0 +1,120 @@
+/*
+.container {
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+*/
+/*
+.title {
+    font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+      'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    display: block;
+    font-weight: 300;
+    font-size: 100px;
+    color: #35495e;
+    letter-spacing: 1px;
+}
+*/
+  
+/*.subtitle {
+    font-weight: 300;
+    font-size: 42px;
+    color: #526488;
+    word-spacing: 5px;
+    padding-bottom: 15px;
+}*/
+  
+/*.links {
+    padding-top: 15px;
+}*/
+#certs_title {
+    color: white;
+    position: absolute;
+    font-family: "Trust", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-left: 4rem;
+    font-size: 30pt;
+    padding-top: 2rem;
+}
+.module-header {
+    background-color: #272727;
+    height: 7rem;
+    width: 100%;
+    padding-left: 0;
+}
+.cert_heading {
+    color: black;
+    font-size: 14pt;
+    font-family: "Trust", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-top: 4rem;
+    padding-left: 5rem;
+}
+.certificate-nav {
+    margin-top:3rem;
+    margin-left: 5rem;
+    background-color: #f8f8f8;
+    height: 5rem;
+    width: 87.5%;
+}
+.us2_eu_toggle {
+    color: black;
+    font-size: 16pt;
+    padding-top: 20px;
+    padding-left: 20px; 
+}
+
+/*.column_headers {
+
+     background-color: #f8f8f8;
+    width: 90%;
+}*/
+.certificate-cells-colhead-vertical {
+    background-color: #f8f8f8;
+}
+table {
+    /*border-collapse: collapse;*/
+    width: 68rem;
+    border: 1px solid #272727;
+    border-width: thin;
+    font-size: 18px;
+    color:  #272727;
+}
+#US2_header {
+    text-align: right;
+    padding-right: 1rem;
+}
+#production_header {
+    text-align: left;
+}
+.certificate-cells-colhead-horizontal {
+    text-align: right;
+    padding-right: 1rem;
+}
+.certificate-cells {
+    text-align: left;
+}
+caption {
+    color: black;
+    font-family: "Trust", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14pt;
+    text-align: left;
+    padding-top: 1rem;
+}
+#expire_date {
+    background-color: #f8f8f8;
+}
+#cert_download {
+    background-color: #f8f8f8;
+}
+#sandbox_header {
+    text-align: left;
+}
+#us2-cert-tables {
+    display: table
+  }
+  #eu-cert-tables {
+    display: none
+  }
